@@ -31,6 +31,14 @@ OPTION_P_RE = re.compile(
     re.IGNORECASE
 )
 
+def read_text_file(path: str) -> str:
+    for encoding in ("utf-8", "utf-8-sig", "cp1252", "latin-1"):
+        try:
+            return open(path, "r", encoding=encoding).read()
+        except UnicodeDecodeError:
+            continue
+    raise UnicodeDecodeError("utf-8", b"", 0, 1, "Unable to decode file with supported encodings")
+
 
 def extract_questions(html: str):
     """
@@ -91,7 +99,7 @@ def slice_div_block(html: str, start_pos: int) -> str:
 
 
 def validate_file(path: str, expect_min: int = 1, expect_max: int = 50):
-    html = open(path, "r", encoding="utf-8-sig").read()
+    html = read_text_file(path)
 
     questions = extract_questions(html)
     if not questions:
