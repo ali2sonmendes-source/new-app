@@ -1,4 +1,4 @@
-<section data-text="I">
+﻿<section data-text="I">
 
   <p align="left">Leia o texto I para responder às questões de 1 a 6</p>
 
@@ -46,7 +46,7 @@
 
   <p align="left">
     E isso não significa deixar a criança fazer o que ela bem entender. É preciso
-    continuar impondo limites e sabendo dizer não, sempre que necessário. ― Educação
+    continuar impondo limites e sabendo dizer não, sempre que necessário. ? Educação
     positiva não tem nada de passiva. Aqui a proposta é que a criança esteja no centro e
     que suas necessidades e vontades também sejam consideradas", defende Maya Eigenmann.
   </p>
@@ -1559,7 +1559,7 @@
     </p>
 
     <p data-role="statement">
-      Seja {a, b, q} &isin; ℤ. Esse gráfico se inicia na origem do plano cartesiano.
+      Seja {a, b, q} &isin; ?. Esse gráfico se inicia na origem do plano cartesiano.
       Considere <b>M = a + b + q</b>.
     </p>
 
@@ -2171,52 +2171,52 @@
 
 
   <div data-question-id="35">
-    <p data-role="title"><b>Quest�o 35</b></p>
+    <p data-role="title"><b>Questo 35</b></p>
 
-    <p data-role="statement">Leia com aten��o o fragmento do livro de Silvia Frederici.</p>
+    <p data-role="statement">Leia com ateno o fragmento do livro de Silvia Frederici.</p>
 
     <p align="center" data-role="excerpt" style="margin: 12px 0;">
-      Em particular, as feministas colocaram em evid�ncia e denunciaram as estrat�gias e a<br/>
-      viol�ncia por meio das quais os sistemas de explora��o, centrados nos homens,<br/>
+      Em particular, as feministas colocaram em evidncia e denunciaram as estratgias e a<br/>
+      violncia por meio das quais os sistemas de explorao, centrados nos homens,<br/>
       tentaram disciplinar e apropriar-se do corpo feminino, destacando que os corpos das<br/>
-      mulheres constitu�ram os principais objetivos - lugares privilegiados - para a<br/>
-      implementa��o das t�cnicas de poder e das rela��es de poder.
+      mulheres constituram os principais objetivos - lugares privilegiados - para a<br/>
+      implementao das tcnicas de poder e das relaes de poder.
     </p>
 
     <p data-role="source">
-      <b>Fonte:</b> FEDERICI, Silvia. <b>Calib� e a Bruxa: mulheres, corpo e acumula��o primitiva.</b><br/>
-      S�o Paulo: Elefante, 2017. p. 31-32.
+      <b>Fonte:</b> FEDERICI, Silvia. <b>Calib e a Bruxa: mulheres, corpo e acumulao primitiva.</b><br/>
+      So Paulo: Elefante, 2017. p. 31-32.
     </p>
 
     <p data-role="statement">
-      O fragmento citado aborda como o corpo das mulheres tem sido um espa�o central para a aplica��o das t�cnicas
-      de poder e domina��o no sistema capitalista. Essa dimens�o da luta feminista foi assumida no Brasil nos anos
-      de 1960 e 1970, quando as principais reivindica��es no campo dos direitos civis podem ser sintetizadas como:
+      O fragmento citado aborda como o corpo das mulheres tem sido um espao central para a aplicao das tcnicas
+      de poder e dominao no sistema capitalista. Essa dimenso da luta feminista foi assumida no Brasil nos anos
+      de 1960 e 1970, quando as principais reivindicaes no campo dos direitos civis podem ser sintetizadas como:
     </p>
 
     <div data-role="options">
       <p data-option="A">
-        A) Moralidade e sexualidade, defendendo que a mulher deveria ser a guardi� da moral familiar, em conson�ncia
+        A) Moralidade e sexualidade, defendendo que a mulher deveria ser a guardi da moral familiar, em consonncia
         com o discurso da Igreja e do Estado. Posto que, acreditavam que as mulheres que desafiavam esse ideal -
-        trabalhadoras, m�es solteiras, ou militantes pol�ticas - deveriam ser alvos de disciplinamento na sociedade.
+        trabalhadoras, mes solteiras, ou militantes polticas - deveriam ser alvos de disciplinamento na sociedade.
       </p>
 
       <p data-option="B">
-        B) Direitos trabalhistas e condi��es de trabalho, defendendo a restri��o do acesso das mulheres ao mercado
-        de trabalho t�xtil, industrial e comercial. Pois, acreditavam que, assim, as mulheres n�o seriam impulsionadas
-        a deixar o trabalho dom�stico e o cuidado da fam�lia e, com isso, n�o seriam submetidas a dupla jornada de trabalho.
+        B) Direitos trabalhistas e condies de trabalho, defendendo a restrio do acesso das mulheres ao mercado
+        de trabalho txtil, industrial e comercial. Pois, acreditavam que, assim, as mulheres no seriam impulsionadas
+        a deixar o trabalho domstico e o cuidado da famlia e, com isso, no seriam submetidas a dupla jornada de trabalho.
       </p>
 
       <p data-option="C">
-        C) Igualdade jur�dica, denunciando a depend�ncia econ�mica imposta �s mulheres e defendendo a autonomia legal
-        para que pudessem administrar seus pr�prios bens e tomar decis�es sem autoriza��o dos maridos. Direitos sexuais
-        e reprodutivos, reivindicando o direito ao planejamento familiar, o acesso a m�todos contraceptivos e a legaliza��o do aborto.
+        C) Igualdade jurdica, denunciando a dependncia econmica imposta s mulheres e defendendo a autonomia legal
+        para que pudessem administrar seus prprios bens e tomar decises sem autorizao dos maridos. Direitos sexuais
+        e reprodutivos, reivindicando o direito ao planejamento familiar, o acesso a mtodos contraceptivos e a legalizao do aborto.
       </p>
 
       <p data-option="D">
-        D) Controle reprodutivo, reivindicando do Estado o controle do corpo feminino, defendendo a esteriliza��o for�ada
-        de mulheres pobres, como forma de evitar o aumento desordenado da popula��o nas �reas perif�ricas. E para as mulheres
-        mais abastadas indicavam a educa��o sobre formas sobre contracep��o, destacadamente o uso da p�lula anticoncepcional.
+        D) Controle reprodutivo, reivindicando do Estado o controle do corpo feminino, defendendo a esterilizao forada
+        de mulheres pobres, como forma de evitar o aumento desordenado da populao nas reas perifricas. E para as mulheres
+        mais abastadas indicavam a educao sobre formas sobre contracepo, destacadamente o uso da plula anticoncepcional.
       </p>
     </div>
   </div>
@@ -2267,10 +2267,10 @@
       razão carga/massa (e/m) do elétron, cujo valor atual é 1,76 × 10¹¹ C/kg.
       Esta figura ilustra parte do esquema experimental: duas placas metálicas paralelas
       (P e P‘) são submetidas a uma diferença de potencial (V), gerando um campo elétrico
-      uniforme na região entre elas. A distância entre as placas é d, e seu comprimento é Ɩ.
+      uniforme na região entre elas. A distância entre as placas é d, e seu comprimento é ?.
       Ao aplicar uma tensão no filamento do tubo, elétrons são emitidos pelo catodo (C)
-      com velocidade inicial horizontal (v₀). Ao passar entre as placas, os elétrons
-      sofrem a ação de uma força elétrica (Fₑ = eE), perpendicular à trajetória inicial,
+      com velocidade inicial horizontal (v?). Ao passar entre as placas, os elétrons
+      sofrem a ação de uma força elétrica (F? = eE), perpendicular à trajetória inicial,
       causando um desvio vertical (OO‘) no feixe.
     </p>
 
@@ -2288,7 +2288,7 @@
     </div>
 
     <p data-role="statement">
-      Em termos de v₀, e, m, E, Ɩ, a velocidade dos elétrons na direção do eixo y
+      Em termos de v?, e, m, E, ?, a velocidade dos elétrons na direção do eixo y
       (perpendicular à trajetória inicial do feixe), sentido positivo, adquirida
       ao final da região entre as placas é dada por:
     </p>
@@ -2371,8 +2371,8 @@
       localizados em suas pernas. Quando uma presa se move bruscamente na superfície
       da areia, são geradas ondas transversais e longitudinais, que se propagam a
       velocidades de 50 m/s e 150 m/s, respectivamente. O escorpião determina a
-      posição da presa a partir da diferença de tempo (Δt) entre os instantes de
-      chegada das duas ondas à perna mais próxima. Um Δt típico detectável pelo
+      posição da presa a partir da diferença de tempo (?t) entre os instantes de
+      chegada das duas ondas à perna mais próxima. Um ?t típico detectável pelo
       escorpião é de 4,0 ms.
     </p>
 
@@ -2681,8 +2681,8 @@ O isolamento reprodutivo <strong>pré-zigótico</strong> ocorre entre rãs:
     principalmente pela urina.
   </p>
 <p data-role="statement">Segundo a OMS, as concentrações regulares de níquel na urina devem
-    estar entre 1 e 2 μg/L. Um estudo mediu a concentração média de níquel
-    (μmol/L) na urina de indivíduos de quatro países, e os resultados são
+    estar entre 1 e 2 ?g/L. Um estudo mediu a concentração média de níquel
+    (?mol/L) na urina de indivíduos de quatro países, e os resultados são
     apresentados a seguir:
   </p>
 
@@ -2691,10 +2691,10 @@ O isolamento reprodutivo <strong>pré-zigótico</strong> ocorre entre rãs:
 </div>
 
 <p data-role="statement">
-    País I: 0,025 μmol/L<br/>
-    País II: 0,051 μmol/L<br/>
-    País III: 0,068 μmol/L<br/>
-    País IV: 0,085 μmol/L
+    País I: 0,025 ?mol/L<br/>
+    País II: 0,051 ?mol/L<br/>
+    País III: 0,068 ?mol/L<br/>
+    País IV: 0,085 ?mol/L
   </p>
 <p data-role="source">Fonte: BORGES, R. M. et al. Avaliação dos níveis de níquel no ar e na
     urina de moradores próximos a uma indústria e depósito de rejeitos
@@ -2731,18 +2731,18 @@ O isolamento reprodutivo <strong>pré-zigótico</strong> ocorre entre rãs:
     estômago, neutralizando o excesso de acidez. A equação balanceada
     que representa essa reação de neutralização é:
   </p>
-<p data-role="statement">CaCO<sub>3</sub>(s) + 2HCl(aq) → CaCl<sub>2</sub>(aq) +
+<p data-role="statement">CaCO<sub>3</sub>(s) + 2HCl(aq) ? CaCl<sub>2</sub>(aq) +
     H<sub>2</sub>O(l) + CO<sub>2</sub>(g)
   </p>
 <p data-role="statement">Considere o consumo de 500 mg de carbonato de cálcio (CaCO<sub>3</sub>),
     presente em um medicamento.
   </p>
 <p data-role="statement"><strong>DADOS:</strong></p>
-<p data-role="statement">CaCO<sub>3</sub> ΔH<sub>formação</sub> = −1207 kJ<br/>
-    HCl ΔH<sub>formação</sub> = −92,31 kJ<br/>
-    CaCl<sub>2</sub> ΔH<sub>formação</sub> = −795,0 kJ<br/>
-    H<sub>2</sub>O(l) ΔH<sub>formação</sub> = −285,8 kJ<br/>
-    CO<sub>2</sub>(g) ΔH<sub>formação</sub> = −393,5 kJ
+<p data-role="statement">CaCO<sub>3</sub>??H<sub>formação</sub> = ?1207 kJ<br/>
+    HCl??H<sub>formação</sub> = ?92,31 kJ<br/>
+    CaCl<sub>2</sub>??H<sub>formação</sub> = ?795,0 kJ<br/>
+    H<sub>2</sub>O(l)??H<sub>formação</sub> = ?285,8 kJ<br/>
+    CO<sub>2</sub>(g)??H<sub>formação</sub> = ?393,5 kJ
   </p>
 <p data-role="statement">Considerando a neutralização do antiácido em ambiente estomacal, a
     quantidade de energia liberada, em kJ, durante essa reação é igual a:
@@ -2828,6 +2828,6 @@ O isolamento reprodutivo <strong>pré-zigótico</strong> ocorre entre rãs:
 <p data-option="A">A) na reação os grupos iônicos são convertidos em grupos cetona, de maior polaridade.</p>
 <p data-option="B">B) os grupos amida e cetona estabelecem ligações de hidrogênio com as moléculas de água.</p>
 <p data-option="C">C) a molécula de índigo é simétrica e plana, fazendo com que os momentos dipolares se anulem.</p>
-<p data-option="D">D) os anéis aromáticos do índigo possuem elétrons π deslocalizados que promovem a interação com as fibras de algodão.</p>
+<p data-option="D">D) os anéis aromáticos do índigo possuem elétrons ? deslocalizados que promovem a interação com as fibras de algodão.</p>
 
 
