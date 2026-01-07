@@ -91,7 +91,7 @@ def slice_div_block(html: str, start_pos: int) -> str:
 
 
 def validate_file(path: str, expect_min: int = 1, expect_max: int = 50):
-    html = open(path, "r", encoding="utf-8").read()
+    html = open(path, "r", encoding="utf-8-sig").read()
 
     questions = extract_questions(html)
     if not questions:
