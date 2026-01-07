@@ -32,12 +32,26 @@ OPTION_P_RE = re.compile(
 )
 
 def read_text_file(path: str) -> str:
-    for encoding in ("utf-8", "utf-8-sig", "cp1252", "latin-1"):
-        try:
-            return open(path, "r", encoding=encoding).read()
-        except UnicodeDecodeError:
-            continue
-    raise UnicodeDecodeError("utf-8", b"", 0, 1, "Unable to decode file with supported encodings")
+    """
+    Lê arquivo em UTF-8 estrito, removendo BOM se presente.
+    Gera erro explícito de encoding caso o conteúdo não seja UTF-8 válido.
+    """
+    with open(path, "rb") as f:
+        data = f.read()
+
+    if data.startswith(b"\xef\xbb\xbf"):
+        data = data[3:]
+
+    try:
+        return data.decode("utf-8", errors="strict")
+    except UnicodeDecodeError as exc:
+        raise UnicodeDecodeError(
+            "utf-8",
+            exc.object,
+            exc.start,
+            exc.end,
+            f"Erro de encoding: arquivo não está em UTF-8 válido ({exc.reason})."
+        )
 
 
 def extract_questions(html: str):
@@ -99,7 +113,10 @@ def slice_div_block(html: str, start_pos: int) -> str:
 
 
 def validate_file(path: str, expect_min: int = 1, expect_max: int = 50):
-    html = read_text_file(path)
+    try:
+        html = read_text_file(path)
+    except UnicodeDecodeError as exc:
+        return False, [f"[ERROR] {exc}"]
 
     questions = extract_questions(html)
     if not questions:
