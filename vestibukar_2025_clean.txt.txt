@@ -1,0 +1,2833 @@
+<section data-text="I">
+
+  <p align="left">Leia o texto I para responder às questões de 1 a 6</p>
+
+  <p align="left"><b>Texto I</b></p>
+
+  <p align="center"><b>O que é educação positiva?</b></p>
+
+  <p align="left">
+    Você já ouviu falar em educação positiva? O conceito tem se tornado cada vez mais
+    popular entre pais, mães e cuidadores. Educação respeitosa, educação não violenta…
+    Ainda que com nomes ou formas de explicar um pouco diferentes, todos pregam a mesma
+    coisa: uma criação mais acolhedora e que reconheça a criança como um sujeito que
+    merece ter suas opiniões e seus sentimentos respeitados.
+  </p>
+
+  <p align="left">
+    Em outras palavras, a educação positiva propõe que os adultos construam uma relação
+    mais amorosa e respeitosa com as crianças, sempre considerando as necessidades e os
+    sentimentos dos filhos. "A missão a longo prazo é oferecer um lar para as crianças
+    que realmente promova um desenvolvimento saudável. Mas, levando em consideração
+    que estamos em uma sociedade que não respeita a infância, nosso objetivo é reduzir
+    danos", defende a pedagoga e educadora parental Maya Eigenmann, autora do livro
+    <i>A Raiva Não Educa, a Calma Educa</i>.
+  </p>
+
+  <p align="left">
+    Ainda que proponha uma outra forma de pensar a relação com os pequenos, é importante
+    pontuar que a educação positiva não é um manual de como criar filhos. Ela não
+    apresenta fórmulas prontas e nem traz soluções infalíveis sobre como educar com mais
+    respeito, gentileza e empatia. Muito pelo contrário: a proposta é justamente que cada
+    família encontre a sua forma de fazer isso. O importante é o esforço consciente de
+    pensar o que pode estar desajustado e tentar fazer diferente.
+  </p>
+
+  <p align="left"><b>Educação positiva na prática</b></p>
+
+  <p align="left">
+    Palmadas, ameaças, castigos, xingamentos... Muita gente ainda acredita que, para
+    educar uma criança, é preciso adotar esses comportamentos. Afinal, o adulto, na
+    teoria, é o único que dita as regras e o que ele faz não deve nunca ser questionado.
+    O que a educação positiva propõe é totalmente o contrário. Em vez de obedecer por
+    obedecer, a ideia é que as crianças sejam estimuladas a saber por que as regras
+    existem e o que pode acontecer caso não sejam cumpridas.
+  </p>
+
+  <p align="left">
+    E isso não significa deixar a criança fazer o que ela bem entender. É preciso
+    continuar impondo limites e sabendo dizer não, sempre que necessário. ― Educação
+    positiva não tem nada de passiva. Aqui a proposta é que a criança esteja no centro e
+    que suas necessidades e vontades também sejam consideradas", defende Maya Eigenmann.
+  </p>
+
+  <p align="left">
+    Na prática, nem sempre é tão simples assim. O primeiro passo é reconhecer que, se
+    pretende mudar a forma de educar seu filho, a mudança deve começar por você.
+    "Dificilmente fazemos isso naturalmente. Nós aprendemos a nos relacionar a partir do
+    exemplo que recebemos. Se você não foi escutado quando criança, só de conseguir
+    esperar seu filho falar já é um avanço", explica. "A educação positiva é também uma
+    alfabetização dos adultos em termos emocionais", completa.
+  </p>
+
+  <p align="right">
+    <small><b>Fonte:</b> O que é educação positiva?</small>
+  </p>
+
+  <p align="right">
+    <small>
+      https://revistacrescer.globo.com/criancas/educacao/noticia/2024/03/o-que-e-educacao-positiva.ghtml
+    </small>
+  </p>
+
+  <p align="right">
+    <small>Acesso em 10 de janeiro de 2025. Adaptado.</small>
+  </p>
+
+</section>
+
+<section data-block="I">
+
+  <div data-question-id="1">
+
+    <p data-role="title"><b>Questão 1</b></p>
+
+    <p data-role="statement">
+      Segundo o Texto I, o significado do termo "acolhedora" (1º parágrafo) está
+      diretamente associado à ideia de:
+    </p>
+
+    <div data-role="options">
+    <p data-option="A">
+      A) Estabelecer regras disciplinares para moldar o comportamento infantil.
+    </p>
+
+    <p data-option="B">
+      B) Delegar as decisões familiares às crianças para evitar conflitos geracionais.
+    </p>
+
+    <p data-option="C" data-correct="true">
+      C) Possibilitar uma criação de forma a valorizar os sentimentos e a autonomia da criança.
+    </p>
+
+    <p data-option="D">
+      D) Priorizar métodos tradicionais de educação sem questionar práticas culturais estabelecidas.
+    </p>
+
+    </div>
+  </div>
+
+</section>
+
+<section data-block="I">
+
+  <div data-question-id="2">
+
+    <p data-role="title"><b>Questão 2</b></p>
+
+    <p data-role="statement">
+      O elemento coesivo "Ainda que", que inicia o terceiro parágrafo, estabelece uma relação de:
+    </p>
+
+    <div data-role="options">
+    <p data-option="A">
+      A) Causa, indicando o motivo pelo qual a educação positiva não é um manual.
+    </p>
+
+    <p data-option="B" data-correct="true">
+      B) Concessão, introduzindo uma ideia que se opõe à nova forma de pensar a relação com as crianças.
+    </p>
+
+    <p data-option="C">
+      C) Condição, apresentando um requisito para que a educação positiva não seja considerada um manual.
+    </p>
+
+    <p data-option="D">
+      D) Conformidade, expressando que a educação positiva está de acordo com uma nova forma de pensar a relação com as crianças.
+    </p>
+
+    </div>
+  </div>
+
+</section>
+
+
+<section data-block="I">
+
+  <div data-question-id="3">
+
+    <p data-role="title"><b>Questão 3</b></p>
+
+    <p data-role="statement">
+      Considerando o gênero textual e o nível de linguagem utilizado no Texto I, a afirmação correta é:
+    </p>
+
+    <div data-role="options">
+    <p data-option="A">
+      A) A linguagem empregada é excessivamente rebuscada e acadêmica, dificultando a compreensão para leitores não especializados.
+    </p>
+
+    <p data-option="B">
+      B) O texto utiliza predominantemente linguagem formal, com termos técnicos específicos da área pedagógica, adequando-se ao gênero artigo científico.
+    </p>
+
+    <p data-option="C">
+      C) As palavras da especialista Maya Eigenmann foram adaptadas pelo autor, construindo uma paráfrase, uma estratégia que caracteriza os artigos de divulgação científica.
+    </p>
+
+    <p data-option="D" data-correct="true">
+      D) A presença de expressões como "Basta uma pesquisa rápida" e "Você já ouviu falar" indica um tom mais informal e dialógico, característico de textos de divulgação para o público geral.
+    </p>
+
+    </div>
+  </div>
+
+</section>
+
+
+<section data-block="I">
+
+  <div data-question-id="4">
+
+    <p data-role="title"><b>Questão 4</b></p>
+
+    <p data-role="statement">
+      Releia este trecho do Texto I:
+    </p>
+
+    <p data-role="excerpt">
+      "Palmadas, ameaças, castigos, xingamentos... Muita gente ainda acredita que, para educar uma criança,
+      é preciso adotar esses comportamentos. Afinal, o adulto, na teoria, é o único que dita as regras e
+      o que ele faz não deve nunca ser questionado."
+    </p>
+
+    <p data-role="statement">
+      ASSINALE a alternativa correta quanto à análise da pontuação:
+    </p>
+
+    <div data-role="options">
+    <p data-option="A">
+      A) A vírgula após "que" em "Muita gente ainda acredita que, para educar uma criança" está incorreta,
+      pois separa o sujeito do predicado.
+    </p>
+
+    <p data-option="B">
+      B) As reticências após "xingamentos" são usadas para indicar uma enumeração incompleta, sem qualquer
+      efeito sobre o estilo do texto.
+    </p>
+
+    <p data-option="C">
+      C) A ausência de vírgula antes de "e" em "e o que ele faz não deve nunca ser questionado" é um erro,
+      pois todas as orações coordenadas devem ser separadas por vírgulas.
+    </p>
+
+    <p data-option="D" data-correct="true">
+      D) As vírgulas que isolam "na teoria" funcionam como marcadores de oralidade, simulando uma pausa
+      enfática do discurso falado, o que reforça o caráter menos formal do texto.
+    </p>
+
+    </div>
+  </div>
+
+</section>
+
+
+<section data-block="I">
+
+  <div data-question-id="5">
+
+    <p data-role="title"><b>Questão 5</b></p>
+
+    <p data-role="statement">
+      Considerando a construção argumentativa do gênero textual do Texto I, ASSINALE a alternativa
+      que melhor descreve a estratégia utilizada pelo autor.
+    </p>
+
+    <div data-role="options">
+    <p data-option="A">
+      A) Constrói-se a argumentação através de uma série de comparações diretas entre a educação
+      positiva e métodos tradicionais, concluindo com um guia passo a passo para a aplicação
+      prática do método.
+    </p>
+
+    <p data-option="B" data-correct="true">
+      B) Emprega-se uma abordagem dialógica, iniciando com uma pergunta retórica, utilizando
+      exemplos concretos e citações de especialistas para engajar o leitor e explicar o conceito
+      de forma acessível.
+    </p>
+
+    <p data-option="C">
+      C) Segue-se uma estrutura estritamente acadêmica, com introdução formal do tema, revisão de
+      literatura e conclusão com recomendações específicas para implementação da educação positiva.
+    </p>
+
+    <p data-option="D">
+      D) Utilizam-se predominantemente dados estatísticos e gráficos para comprovar a eficácia da
+      educação positiva, mantendo um tom neutro e impessoal ao longo de todo o artigo.
+    </p>
+
+    </div>
+  </div>
+
+</section>
+
+
+<section data-block="I">
+
+  <div data-question-id="6">
+
+    <p data-role="title"><b>Questão 6</b></p>
+
+    <p data-role="statement">
+      ASSINALE a alternativa que indica o principal objetivo do autor do texto:
+    </p>
+
+    <div data-role="options">
+    <p data-option="A">
+      A) Comparar cientificamente a eficácia da educação positiva com outros métodos educacionais.
+    </p>
+
+    <p data-option="B">
+      B) Fornecer um guia prático e detalhado sobre como implementar a educação positiva no dia a dia.
+    </p>
+
+    <p data-option="C">
+      C) Criticar os métodos tradicionais de educação, promovendo a adoção imediata da educação positiva.
+    </p>
+
+    <p data-option="D" data-correct="true">
+      D) Apresentar o conceito de educação positiva, explicando seus princípios básicos e
+      desmistificando algumas ideias errôneas sobre essa abordagem.
+    </p>
+
+    </div>
+  </div>
+
+</section>
+
+
+<section data-block="II">
+
+  <div data-question-id="7">
+
+    <p data-role="title"><b>Questão 7</b></p>
+
+    <p data-role="statement">
+      Considere os excertos da Obra Literária apresentada a seguir, para responder à questão:
+    </p>
+
+    <p data-role="work"><b>Casa Velha</b></p>
+
+    <p data-role="excerpt">
+      "O padre Mascarenhas dissera-lhe uma vez, ao almoço, que ela era a imperatriz da Casa Velha,
+      e Dona Antonia sorriu lisonjeada, com a ideia de ser imperatriz em algum ponto da terra.
+      Não batia com o cetro em ninguém, mas estimava saber que lho reconheciam."
+    </p>
+
+    <p data-role="excerpt">
+      "Quer ouvir por que razão não podem casar? porque não podem. Não lhe nego nada a respeito
+      dela; é muito boa menina, dei-lhe a educação que pude, não sei se mais do que convinha,
+      mas, enfim, está criada e pronta para fazer a felicidade de algum homem. Que mais há de ser?
+      Nós não vivemos no mundo da lua, Reverendíssimo. Meu filho é meu filho, e, além desta razão,
+      que é forte, precisa de aliança de família.
+    </p>
+
+    <p data-role="excerpt">
+      Isto não é novela de príncipes que acabam casando com roceiras, ou de princesas encantadas.
+      Faça-me o favor de dizer com que cara daria eu semelhante notícia aos nossos parentes de
+      Minas e de S. Paulo?"
+    </p>
+
+    <p data-role="statement">
+      Considerando os excertos de <i>Casa Velha</i> e a obra como um todo, é correto afirmar que há
+      no texto uma:
+    </p>
+
+    <div data-role="options">
+    <p data-option="A">
+      A) alusão à importância das alianças familiares e da manutenção do status quo, porque Lalau,
+      como integrante da classe senhorial, não poderia se casar com um homem de um nível social inferior.
+    </p>
+
+    <p data-option="B" data-correct="true">
+      B) crítica à rigidez social da época, demonstrando-se como as relações hierárquicas
+      perpetuavam a estrutura aristocrática, impedindo a ascensão de indivíduos fora do círculo
+      familiar tradicional.
+    </p>
+
+    <p data-option="C">
+      C) posição favorável à mobilidade social, na medida em que a própria Dona Antonia, apesar de
+      sua posição social inferior, exercia um papel de liderança e prestígio, desafiando a estrutura
+      patriarcal.
+    </p>
+
+    <p data-option="D">
+      D) sugestão de que a hierarquia social, apesar de flexível, não permitia que personagens como
+      Dona Antonia e Lalau tivessem acesso ao mesmo status social que os membros da elite oitocentista.
+    </p>
+
+    </div>
+    <p align="right">
+      <small>
+        Fonte: ASSIS, Machado de. <i>Casa Velha</i>. Rio de Janeiro: Paz e Terra, 1986, p. 59–60.
+        Texto proveniente da Biblioteca Virtual do Estudante Brasileiro. Disponível em:
+        http://www.bibvirt.futuro.usp.br. Acesso em 25 fev. 2025. (fragmentos)
+      </small>
+    </p>
+
+  </div>
+
+</section>
+
+
+<section data-block="II">
+
+  <div data-question-id="8">
+
+    <p data-role="title"><b>Questão 8</b></p>
+
+    <p data-role="work"><b>Ana Davenga</b></p>
+
+    <p data-role="excerpt">
+      "[...] dois policiais entraram de armas em punho. Mandaram que Davenga se vestisse rápido
+      e não bancasse o engraçadinho, porque o barraco estava cercado. Outro policial do lado
+      de fora empurrou a janela de madeira. Uma metralhadora apontou para dentro de casa, bem
+      na direção da cama, na mira de Ana Davenga. Ela se encolheu levando a mão na barriga,
+      protegendo o filho, pequena semente, quase sonho ainda."
+    </p>
+
+    <p data-role="work"><b>Quantos filhos Natalina teve?</b></p>
+
+    <p data-role="excerpt">
+      "Natalina alisou carinhosamente a barriga, o filho pulou lá de dentro respondendo ao
+      carinho. Ela sorriu feliz. Era a sua quarta gravidez, e o seu primeiro filho. Só seu.
+      De homem algum, de pessoa alguma. Aquele filho ela queria, os outros não. Os outros
+      eram como se tivessem morrido pelo meio do caminho. Foram dados logo após e antes até
+      do nascimento. As outras barrigas ela odiara. Não aguentava se ver estufando, estufando,
+      pesada, inchada e aquele troco, aquela coisa mexendo dentro dela."
+    </p>
+
+    <p data-role="work"><b>Duzu-Querença</b></p>
+
+    <p data-role="excerpt">
+      "Estava chegando uma época em que o sofrer era proibido. Mesmo com toda dignidade
+      ultrajada, mesmo que matassem os seus, mesmo com a fome cantando no estômago de todos,
+      com o frio rachando a pele de muitos, com a doença comendo o corpo, com o desespero
+      diante daquele viver-morrer, por maior que fosse a dor, era proibido o sofrer. [Duzu]
+      gostava deste tempo. Alegrava-se tanto! Era o carnaval. E já havia até imaginado a
+      roupa para o desfile da escola."
+    </p>
+
+    <p data-role="statement">
+      Com base nos excertos acima e na obra como um todo, ASSINALE a alternativa correta
+      sobre a representação das mulheres negras em <i>Olhos d’água</i>, de Conceição Evaristo:
+    </p>
+
+    <div data-role="options">
+    <p data-option="A" data-correct="true">
+      A) As mulheres negras ocupam posições de força e centralidade. Embora carreguem histórias
+      de dor e violência, também trazem consigo a luta, a resistência e a preservação da memória.
+    </p>
+
+    <p data-option="B">
+      B) As protagonistas negras encontram soluções determinantes para suas dificuldades,
+      por isso recebem recompensas da sociedade ao final de suas trajetórias de vidas.
+    </p>
+
+    <p data-option="C">
+      C) As personagens negras são representadas unicamente como vítimas da sociedade,
+      incapazes de enfrentar as violências impostas pela sociedade patriarcal.
+    </p>
+
+    <p data-option="D">
+      D) As mulheres negras da coletânea rompem com o passado de sofrimento, sem carregar
+      sinais ou consequências das agressões sofridas.
+    </p>
+
+    </div>
+    <p align="right">
+      <small>
+        <b>Fonte:</b> EVARISTO, Conceição. <i>Olhos d’água</i>. 1. ed. Rio de Janeiro: Pallas;
+        Fundação Biblioteca Nacional, 2016, p. 19, 22 e 27. (fragmentos)
+      </small>
+    </p>
+
+  </div>
+
+</section>
+
+
+<section data-block="III">
+
+  <div data-question-id="9">
+
+    <p data-role="title"><b>Questão 9</b></p>
+
+    <p data-role="statement">
+      Leia o texto abaixo para responder à questão proposta:
+    </p>
+
+    <p data-role="excerpt">
+      "Atrás de portas fechadas,<br/>
+      à luz de velas acesas,<br/>
+      entre sigilo e espionagem,<br/>
+      acontece a Inconfidência.<br/>
+      E diz o Vigário ao Poeta: &quot;Escreva-me aquela letra<br/>
+      do versinho de Vergílio...<br/>
+      E dá-lhe o papel e a pena.<br/>
+      E diz o Poeta ao Vigário,<br/>
+      com dramática prudência: &quot;Tenha meus dedos cortados,<br/>
+      antes que tal verso escrevam...<br/>
+      LIBERDADE, AINDA QUE TARDE,<br/>
+      ouve-se em redor da mesa.<br/>
+      E a bandeira já está viva, e sobe, na noite imensa.<br/>
+      E os seus tristes inventores<br/>
+      já são réus – pois se atreveram<br/>
+      a falar em Liberdade<br/>
+      (que ninguém sabe o que seja).&quot;
+    </p>
+
+    <p align="right">
+      <small>
+        <b>Fonte:</b> MEIRELES, Cecília. <i>Romanceiro da Inconfidência</i>.
+        Rio de Janeiro: Nova Fronteira, 1989, p. 108.
+      </small>
+    </p>
+
+    <p data-role="statement">
+      Considerando o excerto e o <i>Romanceiro da Inconfidência</i>, ASSINALE a alternativa correta.
+    </p>
+
+    <div data-role="options">
+    <p data-option="A">
+      A) O sigilo e a vigilância representam o cuidado que o vigário e o poeta deviam ter ao
+      denunciarem a conspiração dos Inconfidentes contra a coroa portuguesa.
+    </p>
+
+    <p data-option="B">
+      B) Os versos indicam que a primeira bandeira de Minas Gerais estava viva, pronta, devendo
+      ser hasteada à noite na cidade de Tiradentes, sem sigilo ou espionagem.
+    </p>
+
+    <p data-option="C">
+      C) Os versos minimizam e criticam a mobilização Inconfidente, referindo-se à liberdade
+      como uma utopia longínqua, sem efeitos sobre os que lutavam contra o colonialismo.
+    </p>
+
+    <p data-option="D" data-correct="true">
+      D) O ideal de liberdade se manifesta como uma ideia ameaçadora e suscetível à punição,
+      porque reflete o medo e os riscos que os inconfidentes enfrentavam ao lutar por algo tão
+      abstrato e ameaçador.
+    </p>
+
+    </div>
+  </div>
+
+</section>
+
+
+<section data-block="III">
+
+  <div data-question-id="10">
+
+    <p data-role="title"><b>Questão 10</b></p>
+
+    <p data-role="excerpt">
+      "Foi naquele período, nas festas de jarê que continuavam a acontecer, mais modestas,
+      mas na esperança de se mobilizar o <b>panteão de encantados</b> para que trouxessem a
+      chuva e a fertilidade à terra, que apareceu uma misteriosa encantada, de quem nunca
+      havíamos ouvido falar. Nada se sabia sobre ela entre os encantados que corriam de boca
+      em boca, muito menos havia sido vista se manifestar nas casas de jarê da região."
+    </p>
+
+    <p data-role="excerpt">
+      "Não tentei me desvencilhar, estava acostumada com a <b>presença dos encantados</b> nas
+      brincadeiras de jarê. Era a casa de meu pai, o curador Zeca Chapéu Grande, e havia
+      crescido entre loucos e preces, entre gritos e xaropes de raiz, entre velas e tambores.
+      A simples presença de um encantado que eu não conhecia não seria capaz de me intimidar,
+      fosse uma real manifestação do encanto ou da loucura".
+    </p>
+
+    <p align="right">
+      <small>
+        <b>Fonte:</b> VIEIRA JUNIOR, Itamar. <i>Torto Arado</i>. São Paulo: Editora Todavia,
+        2019, p. 51 e 60. (fragmentos; grifos nossos)
+      </small>
+    </p>
+
+    <p data-role="statement">
+      No romance <i>Torto Arado</i>, de Itamar Vieira Júnior, a temática quilombola está
+      intimamente ligada às práticas religiosas afro-brasileiras, especialmente o Jarê,
+      um culto tradicional da Chapada Diamantina, na Bahia. Nas festas de Jarê, as
+      divindades, ou encantados, se manifestavam por meio de médiuns, tomando seus corpos
+      para se comunicar com os presentes.
+    </p>
+
+    <p data-role="statement">
+      Considerando-se a obra e os termos destacados, sobre os personagens, é correto afirmar que:
+    </p>
+
+    <div data-role="options">
+    <p data-option="A">
+      A) Belonísia é a irmã de Bibiana que assumiu a tarefa de caçar os encantados nas
+      brincadeiras do Jarê.
+    </p>
+
+    <p data-option="B" data-correct="true">
+      B) Santa Rita Pescadeira é uma divindade encantada do jarê que dirige a vida dos
+      personagens e uma das narradoras.
+    </p>
+
+    <p data-option="C">
+      C) Zeca Chapéu Grande é um curandeiro importante de sua comunidade, por isso faz parte
+      do panteão de encantados.
+    </p>
+
+    <p data-option="D">
+      D) Bibiana é uma entidade encantada que persegue os personagens quilombolas, assumindo
+      o foco narrativo no início da trama.
+    </p>
+
+    </div>
+  </div>
+
+</section>
+
+
+<section data-text="I">
+
+  <p align="left">
+    Lea el texto I para responder a las cuestiones de 11 a 15.
+  </p>
+
+  <p align="left"><b>Texto I</b></p>
+
+  <p align="center"><b>¿Qué es el phubbing y cómo evitarlo?</b></p>
+
+  <!-- FIGURA À DIREITA COM TEXTO CONTORNANDO -->
+  <img src="assets/images/figura_1.png"
+       alt="Personas usando el teléfono móvil durante una conversación"
+       style="float:right; width:240px; margin:0 0 12px 14px;" />
+
+  <p>
+    Seguro que la sensación te suena. Estás hablando con alguien y notas que esa persona no
+    te escucha. Descubres por qué con una rápida mirada: está contestando un mensaje de
+    WhatsApp, o mirando los likes en alguna red social. En definitiva, más pendiente del
+    teléfono que de la persona que tiene enfrente.
+  </p>
+
+  <p>
+    Nos pasa a todos y se llama <i>phubbing</i>, una palabra que sale de fusionar en inglés
+    teléfono (<i>phone</i>) y <i>snubbing</i> (ignorar). Es incómodo, molesto e irritante,
+    pero lo hacemos más de lo que nos gusta reconocer.
+  </p>
+
+  <p>
+    España es, según un estudio de <i>Pew Research</i>, el séptimo país del mundo con mayor
+    penetración del <i>smartphone</i>, por delante de otros como Estados Unidos, Francia o
+    Alemania. Hasta un 79% de la población usa estos dispositivos y, en algunos casos,
+    también abusa de ellos.
+  </p>
+
+  <!-- LIMPA O FLOAT PARA O TEXTO VOLTAR AO FLUXO NORMAL -->
+  <div style="clear:both;"></div>
+
+  <p>
+    El caso es aún más preocupante entre los jóvenes. Hasta un 87% de los adolescentes
+    prefiere comunicarse a través de la pantalla del móvil que cara a cara. Una conducta
+    que puede acabar afectando seriamente a las relaciones personales y a la capacidad de
+    empatía.
+  </p>
+
+  <p>
+    Para evitar el <i>phubbing</i>, los expertos recomiendan establecer normas claras sobre
+    el uso del teléfono móvil, especialmente en reuniones familiares o con amigos, y
+    fomentar espacios de conversación sin pantallas.
+  </p>
+
+  <p align="right">
+    <small>
+      <b>Fuente:</b> ¿Qué es el phubbing y cómo evitarlo?
+      Disponible en:
+      https://www.digitals.es/blog-post/que-es-el-phubbing-y-como-evitarlo/
+      Acceso el 11 de febrero de 2024. Adaptado.
+    </small>
+  </p>
+
+</section>
+
+
+<section data-block="I">
+
+  <div data-question-id="11" data-question-variant="espanhol">
+
+    <p data-role="title"><b>Questão 11</b></p>
+
+    <p data-role="statement">
+      O texto <i>¿Qué es el phubbing y cómo evitarlo?</i> inicia-se com
+      <i>"Seguro que la sensación te suena"</i>. Esse trecho do texto pode ser entendido como
+    </p>
+
+    <div data-role="options">
+    <p data-option="A">
+      A) a sensação te traz segurança.
+    </p>
+
+    <p data-option="B">
+      B) sem dúvida você curte a sensação.
+    </p>
+
+    <p data-option="C" data-correct="true">
+      C) certamente a sensação soa familiar para você.
+    </p>
+
+    <p data-option="D">
+      D) tenho certeza que você sonha com a sensação.
+    </p>
+
+    </div>
+  </div>
+
+</section>
+
+
+<section data-block="I">
+
+  <div data-question-id="12" data-question-variant="espanhol">
+
+    <p data-role="title"><b>Questão 12</b></p>
+
+    <p data-role="statement">
+      O texto apresenta estudos e dados relacionados ao <i>phubbing</i>, traduzido para o espanhol
+      como <i>ningunfoneo</i>. Esses estudos ou dados revelam que
+    </p>
+
+    <div data-role="options">
+    <p data-option="A">
+      A) a presença de um smartphone durante uma conversa gera desconfiança.
+    </p>
+
+    <p data-option="B">
+      B) aproximadamente 24% dos jovens sofrem algum tipo de acusação no meio cibernético.
+    </p>
+
+    <p data-option="C" data-correct="true">
+      C) em um restaurante, observam-se 36 casos aproximadamente de <i>ningunfoneo</i> por refeição.
+    </p>
+
+    <p data-option="D">
+      D) a Espanha possui a maior taxa de penetração de telefones inteligentes do continente europeu.
+    </p>
+
+    </div>
+  </div>
+
+</section>
+
+
+<section data-block="I">
+
+  <div data-question-id="13" data-question-variant="espanhol">
+
+    <p data-role="title"><b>Questão 13</b></p>
+
+    <p data-role="statement">
+      Em <b>"Así que</b> corresponde principalmente a los adultos establecer reglas y límites
+      al uso del móvil para combatir el phubbing, también traducido como ningunfoneo…"
+    </p>
+
+    <p data-role="statement">
+      As palavras em destaque <i>"así que"</i> criam uma conexão lógica entre as orações do
+      parágrafo e expressam uma relação de:
+    </p>
+
+    <div data-role="options">
+    <p data-option="A" data-correct="true">
+      A) causa e efeito.
+    </p>
+
+    <p data-option="B">
+      B) contradição de ideias.
+    </p>
+
+    <p data-option="C">
+      C) quebra de expectativa.
+    </p>
+
+    <p data-option="D">
+      D) simultaneidade de ações.
+    </p>
+
+    </div>
+  </div>
+
+</section>
+
+
+<section data-block="I">
+
+  <div data-question-id="14" data-question-variant="espanhol">
+
+    <p data-role="title"><b>Questão 14</b></p>
+
+    <p data-role="statement">
+      A principal recomendação para evitar o <i>ningunfoneo</i> é dada aos adultos. Isso se deve
+      ao fato de que os adultos
+    </p>
+
+    <div data-role="options">
+    <p data-option="A" data-correct="true">
+      A) devem dar exemplo aos demais.
+    </p>
+
+    <p data-option="B">
+      B) são os mais afetados por essa prática.
+    </p>
+
+    <p data-option="C">
+      C) não sabem usar o smartphone corretamente.
+    </p>
+
+    <p data-option="D">
+      D) estabelecem as regras e impõem limites aos menores.
+    </p>
+
+    </div>
+  </div>
+
+</section>
+
+
+<section data-block="I">
+
+  <div data-question-id="15" data-question-variant="espanhol">
+
+    <p data-role="title"><b>Questão 15</b></p>
+
+    <p data-role="statement">
+      O texto apresenta razões pelas quais as pessoas praticam o <i>phubbing</i>, ato de ignorar
+      pessoas por dar mais atenção ao celular.
+    </p>
+
+    <p data-role="statement">
+      Um desses motivos é:
+    </p>
+
+    <div data-role="options">
+    <p data-option="A">
+      A) a falta de empatia.
+    </p>
+
+    <p data-option="B" data-correct="true">
+      B) o vício pela prática do <i>ningunfoneo</i>.
+    </p>
+
+    <p data-option="C">
+      C) a incapacidade de lidar com as emoções.
+    </p>
+
+    <p data-option="D">
+      D) a concentração nas atividades do trabalho.
+    </p>
+
+    </div>
+  </div>
+
+</section>
+
+
+<section data-text="I">
+
+  <p align="left">Leia o texto I para responder às questões de 11 a 15.</p>
+
+  <p align="left"><b>Texto I</b></p>
+
+  <p align="center" style="margin: 16px 0 0 0;">
+    <img src="assets/images/figura_2.png"
+         alt="Texto I (Inglês) - recorte de matéria"
+         style="width: 760px; max-width: 100%; height: auto;" />
+  </p>
+
+  <p align="left" style="margin-top: 10px;">
+    <small>
+      <b>Fonte:</b> https://www.theguardian.com/film/article/2024/sep/01/im-still-here-review-loving-family-negotiates-the-horror-of-brazils-military-rule
+    </small>
+  </p>
+
+</section>
+
+
+<section data-block="I">
+
+  <div data-question-id="11" data-question-variant="ingles">
+
+    <p data-role="title"><b>Questão 11</b></p>
+
+    <p data-role="statement">
+      Dentre as palavras do texto que fazem uso da letra <i>&#8213;s&#8213;</i> ao final, a função de indicar posse está no trecho:
+    </p>
+
+    <div data-role="options">
+    <p data-option="A">
+      A) "The Paiva<b>s</b>…"
+    </p>
+
+    <p data-option="B">
+      B) "…the early 1970<b>s</b>;…"
+    </p>
+
+    <p data-option="C">
+      C) "…(mum, dad, five kid<b>s</b)..."
+    </p>
+
+    <p data-option="D" data-correct="true">
+      D) "Walter Salle<b>s&#8217;s</b> …"
+    </p>
+
+    </div>
+  </div>
+
+</section>
+
+
+<section data-block="I">
+
+  <div data-question-id="12" data-question-variant="ingles">
+
+    <p data-role="title"><b>Questão 12</b></p>
+
+    <p data-role="statement">
+      De acordo com as informações e os objetivos desse texto, conclui-se que ele
+    </p>
+
+    <div data-role="options">
+    <p data-option="A" data-correct="true">
+      A) avalia o filme de Walter Salles.
+    </p>
+
+    <p data-option="B">
+      B) critica uma foto dos Paiva em 1970.
+    </p>
+
+    <p data-option="C">
+      C) apresenta a família Paiva ao mundo.
+    </p>
+
+    <p data-option="D">
+      D) reconta a história do filme desde 2012.
+    </p>
+
+    </div>
+  </div>
+
+</section>
+
+
+<section data-block="I">
+
+  <div data-question-id="13" data-question-variant="ingles">
+
+    <p data-role="title"><b>Questão 13</b></p>
+
+    <p data-role="statement">
+      O texto ressalta que a história do filme é sobre:
+    </p>
+
+    <div data-role="options">
+    <p data-option="A">
+      A) o primeiro filme de drama de Walter Salles desde 2012.
+    </p>
+
+    <p data-option="B">
+      B) uma família que viveu feliz no Rio de Janeiro nos anos 70.
+    </p>
+
+    <p data-option="C">
+      C) a família Paiva, que termina com o desaparecimento dos pais.
+    </p>
+
+    <p data-option="D" data-correct="true">
+      D) a vida de uma família que tem fim após a prisão do seu patriarca.
+    </p>
+
+    </div>
+  </div>
+
+</section>
+
+
+<section data-block="I">
+
+  <div data-question-id="14" data-question-variant="ingles">
+
+    <p data-role="title"><b>Questão 14</b></p>
+
+    <p data-role="statement">
+      Segundo o texto, conclui-se que a família Paiva era:
+    </p>
+
+    <div data-role="options">
+    <p data-option="A">
+      A) feliz e banhada de sol.
+    </p>
+
+    <p data-option="B">
+      B) fotogênica e gostava de praia.
+    </p>
+
+    <p data-option="C" data-correct="true">
+      C) carioca, liberal e de classe média.
+    </p>
+
+    <p data-option="D">
+      D) composta por pai, mãe, filho e filha.
+    </p>
+
+    </div>
+  </div>
+
+</section>
+
+
+<section data-block="I">
+
+  <div data-question-id="15" data-question-variant="ingles">
+
+    <p data-role="title"><b>Questão 15</b></p>
+
+    <p data-role="statement">
+      Sobre as preferências dos Paiva, constata-se que a família gostava de:
+    </p>
+
+    <div data-role="options">
+    <p data-option="A" data-correct="true">
+      A) rir, dançar e jogar vôlei na praia.
+    </p>
+
+    <p data-option="B">
+      B) sorrir e praticar esportes na praia.
+    </p>
+
+    <p data-option="C">
+      C) tirar fotos juntos sorrindo na praia.
+    </p>
+
+    <p data-option="D">
+      D) dançar e ser feliz como outras famílias.
+    </p>
+
+    </div>
+  </div>
+
+</section>
+
+
+<section data-block="II">
+
+  <div data-question-id="16">
+
+    <p data-role="title"><b>Questão 16</b></p>
+
+    <p data-role="statement">Seja A um número real maior do que 1 (um).</p>
+
+    <p data-role="statement">
+      Considere a sentença:
+      <span style="white-space: nowrap;">
+        “Se
+        <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+          <mrow>
+            <mo>&#x2212;</mo><mi>&#x03B4;</mi><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mn>0</mn>
+          </mrow>
+        </math>
+        então
+        <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+          <mrow>
+            <msup>
+              <mi>e</mi>
+              <mrow>
+                <mo>&#x2212;</mo>
+                <mfrac><mn>1</mn><mi>x</mi></mfrac>
+              </mrow>
+            </msup>
+            <mo>&gt;</mo>
+            <mi>A</mi>
+            <mo>;</mo>
+            <mn>0</mn><mo>&lt;</mo><mi>&#x03B4;</mi><mo>&#x2208;</mo><mi>&#x211D;</mi>
+          </mrow>
+        </math>
+        ”.
+      </span>
+    </p>
+
+    <p data-role="statement">
+      O maior valor de
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+        <mi>&#x03B4;</mi>
+      </math>
+      que torna verdadeira a sentença é:
+    </p>
+
+    <div data-role="options" style="margin-left: 40px;">
+
+      <p data-option="A">
+        A)
+        <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+          <mrow><mi>ln</mi><mi>A</mi></mrow>
+        </math>
+      </p>
+
+      <p data-option="B">
+        B)
+        <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+          <mrow>
+            <mi>ln</mi>
+            <mfrac><mn>1</mn><mi>A</mi></mfrac>
+          </mrow>
+        </math>
+      </p>
+
+      <p data-option="C" data-correct="true">
+        C)
+        <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+          <mrow>
+            <msup>
+              <mrow>
+                <mo>(</mo>
+                <mi>ln</mi>
+                <mfrac><mn>1</mn><mi>A</mi></mfrac>
+                <mo>)</mo>
+              </mrow>
+              <mrow><mo>&#x2212;</mo><mn>1</mn></mrow>
+            </msup>
+          </mrow>
+        </math>
+      </p>
+
+      <p data-option="D">
+        D)
+        <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+          <mfrac><mn>1</mn><mrow><mi>ln</mi><mi>A</mi></mrow></mfrac>
+        </math>
+      </p>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<section data-block="II">
+
+  <div data-question-id="17">
+
+    <p data-role="title"><b>Questão 17</b></p>
+
+    <p data-role="statement">
+      Três partidos políticos, cada um com três membros, irão formar uma comissão para<br/>
+      acompanhar as obras da cidade. Esta comissão será formada por três políticos,<br/>
+      sendo um presidente e dois assessores.
+    </p>
+
+    <p data-role="statement">
+      O total de comissões nas quais cada partido tenha pelo menos um representante é igual a:
+    </p>
+
+    <div data-role="options" style="margin-left: 60px;">
+
+      <p data-option="A">A) 9</p>
+
+      <p data-option="B">B) 54</p>
+
+      <p data-option="C" data-correct="true">C) 81</p>
+
+      <p data-option="D">D) 252</p>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<section data-block="II">
+
+  <div data-question-id="18">
+
+    <p data-role="title"><b>Questão 18</b></p>
+
+    <p data-role="statement">
+      Um drink de duas camadas é servido em uma taça no formato de cone equilátero,<br/>
+      como mostrado na figura, onde o líquido da primeira camada atinge metade da<br/>
+      altura da taça. A taça é servida completamente cheia e com um volume de
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+        <mrow>
+          <mn>3</mn>
+          <msqrt><mn>3</mn></msqrt>
+          <mi>&#x03C0;</mi>
+        </mrow>
+      </math>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+        <mrow>
+          <msup><mi>cm</mi><mn>3</mn></msup>
+        </mrow>
+      </math>
+      de líquido na 1ª camada.
+    </p>
+
+    <p align="center" style="margin: 14px 0 14px 0;">
+      <img src="assets/images/figura_3.png"
+           alt="Taça em formato de cone com duas camadas"
+           style="width: 520px; max-width: 100%; height: auto;" />
+    </p>
+
+    <p data-role="statement">
+      O volume de líquido (em cm³) na segunda camada é:
+    </p>
+
+    <div data-role="options" style="margin-left: 60px;">
+
+      <p data-option="A">
+        A)
+        <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+          <mrow>
+            <mn>3</mn>
+            <msqrt><mn>3</mn></msqrt>
+            <mi>&#x03C0;</mi>
+          </mrow>
+        </math>
+      </p>
+
+      <p data-option="B">
+        B)
+        <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+          <mrow>
+            <mn>9</mn>
+            <msqrt><mn>3</mn></msqrt>
+            <mi>&#x03C0;</mi>
+          </mrow>
+        </math>
+      </p>
+
+      <p data-option="C" data-correct="true">
+        C)
+        <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+          <mrow>
+            <mn>21</mn>
+            <msqrt><mn>3</mn></msqrt>
+            <mi>&#x03C0;</mi>
+          </mrow>
+        </math>
+      </p>
+
+      <p data-option="D">
+        D)
+        <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+          <mrow>
+            <mn>24</mn>
+            <msqrt><mn>3</mn></msqrt>
+            <mi>&#x03C0;</mi>
+          </mrow>
+        </math>
+      </p>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<section data-block="II">
+
+  <div data-question-id="19">
+
+    <p data-role="title"><b>Questão 19</b></p>
+
+    <p data-role="statement">
+      Seja
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+        <mi>z</mi>
+      </math>
+      raiz da equação
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+        <mrow>
+          <msup><mi>x</mi><mn>6</mn></msup>
+          <mo>+</mo>
+          <mn>64</mn>
+          <mo>=</mo>
+          <mn>0</mn>
+        </mrow>
+      </math>,
+      sendo
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+        <mi>z</mi>
+      </math>
+      um número imaginário puro negativo.
+    </p>
+
+    <p data-role="statement">
+      Ordenando as raízes dessa equação no plano complexo em sentido anti-horário,
+      sejam
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+        <mi>a</mi>
+      </math>
+      e
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+        <mi>b</mi>
+      </math>,
+      respectivamente, as raízes imediatamente anterior e imediatamente posterior a
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+        <mi>z</mi>
+      </math>.
+    </p>
+
+    <p data-role="statement">
+      O valor de
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+        <mfrac>
+          <mrow><mi>a</mi><mo>&#x22C5;</mo><mi>b</mi></mrow>
+          <mrow><mi>a</mi><mo>+</mo><mi>b</mi></mrow>
+        </mfrac>
+      </math>
+      é:
+    </p>
+
+    <div data-role="options" style="margin-left: 60px;">
+
+      <p data-option="A">
+        A)
+        <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+          <mfrac><mi>i</mi><mn>2</mn></mfrac>
+        </math>
+      </p>
+
+      <p data-option="B">
+        B)
+        <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+          <mo>&#x2212;</mo>
+          <mfrac><mi>i</mi><mn>2</mn></mfrac>
+        </math>
+      </p>
+
+      <p data-option="C">
+        C)
+        <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+          <mn>2</mn><mi>i</mi>
+        </math>
+      </p>
+
+      <p data-option="D" data-correct="true">
+        D)
+        <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+          <mo>&#x2212;</mo><mn>2</mn><mi>i</mi>
+        </math>
+      </p>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<section data-block="II">
+
+  <div data-question-id="20">
+
+    <p data-role="title"><b>Questão 20</b></p>
+
+    <p data-role="statement">
+      Um supermercado irá sortear 1 (um) brinde por mês durante uma promoção que irá durar 3 (três) meses.
+      Para participar, os clientes deverão preencher cupons ao efetuarem suas compras. Sabe-se que:
+    </p>
+
+    <p data-role="statement">
+      1º) A quantidade total de cupons preenchidos por mês, por todos os clientes que efetuaram suas compras
+      durante esta promoção forma uma progressão aritmética crescente. No primeiro mês foram preenchidos
+      200 cupons e, ao final dos 3 (três) meses da promoção, foram preenchidos 1080 cupons.
+    </p>
+
+    <p data-role="statement">
+      2º) Paulo é um dos clientes que preencheu cupons em todos os meses da promoção. A quantidade de cupons
+      mensais preenchidos por Paulo nesta promoção forma uma progressão geométrica. No primeiro mês Paulo
+      preencheu 40 cupons e, ao final dos 3 (três) meses da promoção, Paulo havia preenchido 70 cupons.
+    </p>
+
+    <p data-role="statement">
+      A probabilidade de que Paulo ganhe pelo menos um dos 3 prêmios é de:
+    </p>
+
+    <div data-role="options" style="margin-left: 80px;">
+
+      <p data-option="A">
+        A)
+        <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+          <mfrac><mn>1139</mn><mn>4680</mn></mfrac>
+        </math>
+      </p>
+
+      <p data-option="B" data-correct="true">
+        B)
+        <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+          <mfrac><mn>1212</mn><mn>4680</mn></mfrac>
+        </math>
+      </p>
+
+      <p data-option="C">
+        C)
+        <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+          <mfrac><mn>3467</mn><mn>4680</mn></mfrac>
+        </math>
+      </p>
+
+      <p data-option="D">
+        D)
+        <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+          <mfrac><mn>3468</mn><mn>4680</mn></mfrac>
+        </math>
+      </p>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<section data-block="II">
+
+  <div data-question-id="21">
+
+    <p data-role="title"><b>Questão 21</b></p>
+
+    <p data-role="statement">
+      Considere desenvolvimento de
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+        <msup>
+          <mrow>
+            <mo>(</mo>
+            <msup><mi>x</mi><mn>3</mn></msup>
+            <mo>&#x2212;</mo>
+            <mfrac><mn>1</mn><msup><mi>x</mi><mn>2</mn></msup></mfrac>
+            <mo>)</mo>
+          </mrow>
+          <mn>5</mn>
+        </msup>
+      </math>
+    </p>
+
+    <p data-role="statement">
+      O coeficiente do termo cujo expoente é um múltiplo negativo de 10 é:
+    </p>
+
+    <div data-role="options" style="margin-left: 80px;">
+
+      <p data-option="A">A) -5</p>
+
+      <p data-option="B" data-correct="true">B) -1</p>
+
+      <p data-option="C">C) 1</p>
+
+      <p data-option="D">D) 5</p>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<section data-block="II">
+
+  <div data-question-id="22">
+
+    <p data-role="title"><b>Questão 22</b></p>
+
+    <p data-role="statement">
+      Considere o triângulo delimitado pelos eixos coordenados e pela reta t que passa pelos pontos
+      (0, -8) e (15,0) no plano cartesiano ortogonal. Seja s a reta perpendicular a t, que passa pelo
+      centro da circunferência inscrita nesse triângulo.
+    </p>
+
+    <p data-role="statement">
+      A soma das coordenadas dos pontos de interseção de s com os eixos coordenados é:
+    </p>
+
+    <div data-role="options" style="margin-left: 80px;">
+
+      <p data-option="A" data-correct="true">
+        A)
+        <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+          <mfrac><mn>161</mn><mn>40</mn></mfrac>
+        </math>
+      </p>
+
+      <p data-option="B">
+        B)
+        <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+          <mfrac><mn>49</mn><mn>40</mn></mfrac>
+        </math>
+      </p>
+
+      <p data-option="C">
+        C)
+        <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+          <mrow>
+            <mo>&#x2212;</mo>
+            <mfrac><mn>49</mn><mn>40</mn></mfrac>
+          </mrow>
+        </math>
+      </p>
+
+      <p data-option="D">
+        D)
+        <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+          <mrow>
+            <mo>&#x2212;</mo>
+            <mfrac><mn>161</mn><mn>40</mn></mfrac>
+          </mrow>
+        </math>
+      </p>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<section data-block="II">
+
+  <div data-question-id="23">
+
+    <p data-role="title"><b>Questão 23</b></p>
+
+    <p data-role="statement">
+      Uma empresa apresentou o resultado anual de seus investimentos através de uma função conforme
+      esta figura, onde o eixo <i>x</i> representa o mês e o eixo <i>y</i> o percentual de lucro.
+    </p>
+
+    <p align="center" style="margin: 14px 0;">
+      <img src="assets/images/figura_4.png"
+           alt="Gráfico do resultado anual de investimentos"
+           style="width: 520px; max-width: 100%; height: auto;" />
+    </p>
+
+    <p data-role="statement">
+      A função é definida por:
+    </p>
+
+    <p data-role="statement" style="margin-left: 40px;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+        <mrow>
+          <mi>y</mi>
+          <mo>=</mo>
+          <mo>{</mo>
+          <mtable columnalign="left left">
+            <mtr>
+              <mtd>
+                <mrow>
+                  <mo>(</mo>
+                  <mn>2</mn><mi>a</mi>
+                  <mo>)</mo>
+                  <msup><mi>x</mi></msup>
+                  <mo>+</mo><mi>b</mi>
+                </mrow>
+              </mtd>
+              <mtd>
+                <mrow>
+                  <mn>0</mn><mo>&#x2264;</mo><mi>x</mi><mo>&#x2264;</mo><mn>2</mn>
+                </mrow>
+              </mtd>
+            </mtr>
+
+            <mtr>
+              <mtd>
+                <mrow>
+                  <mn>2</mn><mi>a</mi><mi>x</mi><mo>&#x2212;</mo><mi>a</mi>
+                </mrow>
+              </mtd>
+              <mtd>
+                <mrow>
+                  <mn>2</mn><mo>&#x2264;</mo><mi>x</mi><mo>&#x2264;</mo><mn>4</mn>
+                </mrow>
+              </mtd>
+            </mtr>
+
+            <mtr>
+              <mtd><mi>q</mi></mtd>
+              <mtd>
+                <mrow>
+                  <mn>4</mn><mo>&#x2264;</mo><mi>x</mi><mo>&#x2264;</mo><mn>12</mn>
+                </mrow>
+              </mtd>
+            </mtr>
+          </mtable>
+        </mrow>
+      </math>
+    </p>
+
+    <p data-role="statement">
+      Seja {a, b, q} &isin; ℤ. Esse gráfico se inicia na origem do plano cartesiano.
+      Considere <b>M = a + b + q</b>.
+    </p>
+
+    <p data-role="statement">
+      O valor de <b>M</b> é:
+    </p>
+
+    <div data-role="options" style="margin-left: 80px;">
+
+      <p data-option="A">A) – 9</p>
+
+      <p data-option="B">B) – 7</p>
+
+      <p data-option="C" data-correct="true">C) 7</p>
+
+      <p data-option="D">D) 9</p>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<section data-block="II">
+
+  <div data-question-id="24">
+
+    <p data-role="title"><b>Questão 24</b></p>
+
+    <p data-role="statement">Considere esta inequação.</p>
+
+    <p data-role="statement" style="margin-left: 40px;">
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+        <mrow>
+          <mn>729</mn>
+          <mo>&#x2265;</mo>
+          <msup>
+            <mrow>
+              <mo>(</mo>
+              <mfrac><mn>1</mn><mn>27</mn></mfrac>
+              <mo>)</mo>
+            </mrow>
+
+            <mrow>
+              <mo>(</mo>
+              <msub>
+                <mi>log</mi>
+                <mrow>
+                  <mo>(</mo>
+                  <mfrac>
+                    <msqrt><mn>15</mn></msqrt>
+                    <mn>30</mn>
+                  </mfrac>
+                  <mo>)</mo>
+                </mrow>
+              </msub>
+              <mo>(</mo>
+              <mrow>
+                <mn>2</mn>
+                <msup><mi>x</mi><mn>2</mn></msup>
+                <mo>+</mo>
+                <mn>10</mn><mi>x</mi>
+                <mo>&#x2212;</mo>
+                <mn>12</mn>
+              </mrow>
+              <mo>)</mo>
+              <mo>)</mo>
+            </mrow>
+
+          </msup>
+        </mrow>
+      </math>
+    </p>
+
+    <p data-role="statement">
+      A soma das soluções inteiras dessa inequação é:
+    </p>
+
+    <div data-role="options" style="margin-left: 80px;">
+
+      <p data-option="A">A) -5</p>
+
+      <p data-option="B" data-correct="true">B) -15</p>
+
+      <p data-option="C">C) -25</p>
+
+      <p data-option="D">D) -35</p>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<section data-block="II">
+
+  <div data-question-id="25">
+
+    <p data-role="title"><b>Questão 25</b></p>
+
+    <p data-role="statement">
+      Um clube de futebol ao realizar o balanço financeiro referente ao ano de 2023 verificou que do total de
+      suas receitas 20% eram provenientes de bilheteria, 20% de patrocínio, 20% da venda de jogadores,
+      15% da cota de televisão, 10% do programa sócio torcedor e 15% proveniente de premiações. Ao realizar
+      o balanço financeiro no ano de 2024, em comparação com o ano anterior, verificou-se um aumento de
+      10% na bilheteria, 10% no patrocínio, 10% na venda de jogadores, 10% na cota de televisão, 10% com o
+      programa sócio torcedor e 10% com premiações.
+    </p>
+
+    <p data-role="statement">
+      Considerando que o clube consiga manter, para os próximos anos, este aumento percentual verificado de
+      2023 para 2024, o primeiro ano em que a receita irá superar o dobro da receita de 2023 será:
+    </p>
+
+    <div data-role="options" style="margin-left: 80px;">
+
+      <p data-option="A">A) 2025</p>
+
+      <p data-option="B">B) 2027</p>
+
+      <p data-option="C" data-correct="true">C) 2031</p>
+
+      <p data-option="D">D) 2033</p>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<section data-block="III">
+
+  <div data-question-id="26">
+
+    <p data-role="title"><b>Questão 26</b></p>
+
+    <p align="center" style="margin: 12px 0 6px 0;">
+      <img src="assets/images/figura_5.png"
+           alt="Charge sobre interferência humana no planeta"
+           style="width: 560px; max-width: 100%; height: auto;" />
+    </p>
+
+    <p data-role="source" style="font-size: 12px; text-align: center; margin: 6px 0 14px 0;">
+      Fonte: https://universoethos.wordpress.com/wp-content/uploads/2011/10/chargee-2.jpg
+    </p>
+
+    <p data-role="statement">
+      Esta charge refere-se à interferência humana na dinâmica do nosso planeta no que se refere,
+    </p>
+
+    <div data-role="options" style="margin-left: 60px;">
+
+      <p data-option="A">
+        A) aos movimentos das calotas polares que vêm aumentando a superfície congelada dos continentes<br/>
+        restringindo terras agricultáveis.
+      </p>
+
+      <p data-option="B">
+        B) ao período interglacial que se iniciou há cerca de onze mil anos com o fim da última Era Glacial e<br/>
+        que se desenvolveu ao longo do pleistoceno.
+      </p>
+
+      <p data-option="C">
+        C) à deriva continental que causa o movimento das placas tectônicas marcando o planeta com<br/>
+        desastres naturais como terremotos e vulcões.
+      </p>
+
+      <p data-option="D" data-correct="true">
+        D) as mudanças climáticas e, em especial, o aquecimento global, que são decorrentes da aceleração<br/>
+        do desenvolvimento urbano-industrial dos últimos cinquenta anos.
+      </p>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<section data-block="III">
+
+  <div data-question-id="27">
+
+    <p data-role="title"><b>Questão 27</b></p>
+
+    <p align="center" style="margin: 12px 0 8px 0;">
+      <img src="assets/images/figure_6.png"
+           alt="Gráfico de rendimento médio mensal por sexo no Brasil"
+           style="width: 600px; max-width: 100%; height: auto;" />
+    </p>
+
+    <p data-role="statement">
+      Em 2019, as mulheres receberam 77,7% ou pouco mais de 3/4 do rendimento dos homens.
+      A desigualdade de rendimentos do trabalho (CMIG 13) era maior entre as pessoas inseridas
+      nos grupos ocupacionais que auferem maiores rendimentos, como diretores e gerentes,
+      profissionais das ciências e intelectuais, grupos nos quais as mulheres receberam,
+      respectivamente, 61,9% e 63,6% do rendimento dos homens.
+    </p>
+
+    <p data-role="source" style="font-size: 12px; text-align: center; margin: 6px 0 14px 0;">
+      Fonte: IBGE. <i>Estatísticas de Gênero: Indicadores sociais das mulheres no Brasil</i>, 2ª ed.<br/>
+      Estudos e Pesquisas Informação Demográfica e Sociodemográfica, nº 38, 2021.<br/>
+      Disponível em:
+      https://biblioteca.ibge.gov.br/visualizacao/livros/liv101784_informativo.pdf
+    </p>
+
+    <p data-role="statement">
+      A inserção da mulher no mercado de trabalho brasileiro é marcada pelas condições demonstradas
+      no gráfico e descrita no texto em virtude
+    </p>
+
+    <div data-role="options" style="margin-left: 60px;">
+
+      <p data-option="A">
+        A) da menor qualificação profissional das mulheres que pouco acessam o ensino superior.
+      </p>
+
+      <p data-option="B">
+        B) das atuações sindicais restritas aos homens que têm pouca presença nas esferas políticas.
+      </p>
+
+      <p data-option="C" data-correct="true">
+        C) da dedicação feminina de muitas horas ao trabalho doméstico e continuidade dos padrões
+        sociais desiguais.
+      </p>
+
+      <p data-option="D">
+        D) das inabilidades de competências diretivas e gerenciais entre mulheres em função de padrões
+        sociobiológicos.
+      </p>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<section data-block="III">
+
+  <div data-question-id="28">
+
+    <p data-role="title"><b>Questão 28</b></p>
+
+    <p data-role="statement">
+      Crianças, adolescentes e famílias da Ucrânia passaram por um ano de violência, trauma,
+      destruição e deslocamento. Meninas e meninos continuam a ser mortos, feridos e profundamente
+      traumatizados pela violência que provocou deslocamentos em uma escala e uma velocidade nunca
+      vistas desde a Segunda Guerra Mundial. Escolas, hospitais e outras infraestruturas civis das
+      quais dependem continuam a ser danificados ou destruídos. Famílias foram separadas e vidas
+      dilaceradas.
+    </p>
+
+    <p data-role="source" style="font-size: 12px; text-align: center; margin: 6px 0 14px 0;">
+      Fonte:
+      https://www.unicef.org/brazil/guerra-na-ucrania-representa-ameaca-imediata-para-criancas-e-adolescentes
+    </p>
+
+    <p data-role="statement">
+      Uma política sociodemográfica, resultado da situação descrita no texto é:
+    </p>
+
+    <div data-role="options" style="margin-left: 60px;">
+
+      <p data-option="A">
+        A) A migração pendular no leste europeu entre Ucrânia e Rússia.
+      </p>
+
+      <p data-option="B">
+        B) O incentivo à liberdade e pluralidade religiosa no leste europeu.
+      </p>
+
+      <p data-option="C">
+        C) A promoção de uma ocupação rural descentralizada na região de Donbass.
+      </p>
+
+      <p data-option="D" data-correct="true">
+        D) A criação de campos de refugiados em países vizinhos como Hungria e Romênia.
+      </p>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<section data-block="III">
+
+  <div data-question-id="29">
+
+    <p data-role="title"><b>Questão 29</b></p>
+
+    <p data-role="statement">
+      Art. 2° É assegurada a todos a oportunidade de acesso à propriedade da terra, condicionada pela sua função
+      social, na forma prevista nesta Lei.
+    </p>
+
+    <p data-role="statement" style="margin-left: 28px;">
+      § 1° A propriedade da terra desempenha integralmente a sua função social quando, simultaneamente:
+    </p>
+
+    <div data-role="excerpt" style="margin-left: 52px;">
+      <p style="margin: 4px 0;">a) favorece o bem-estar dos proprietários e dos trabalhadores que nela labutam, assim como de suas famílias;</p>
+      <p style="margin: 4px 0;">b) mantém níveis satisfatórios de produtividade;</p>
+      <p style="margin: 4px 0;">c) assegura a conservação dos recursos naturais;</p>
+      <p style="margin: 4px 0;">d) observa as disposições legais que regulam as justas relações de trabalho entre os que a possuem e a cultivem.</p>
+    </div>
+
+    <p data-role="source" style="font-size: 12px; text-align: right; margin: 8px 0 14px 0;">
+      Fonte: Lei nº 4.504/64, Estatuto da Terra,
+    </p>
+
+    <p data-role="statement">
+      Conforme previsto na lei, os movimentos em prol da reforma agrária, que atuam com base no conceito da função
+      social da terra buscam
+    </p>
+
+    <div data-role="options" style="margin-left: 60px;">
+
+      <p data-option="A" data-correct="true">A) desapropriar latifúndios improdutivos.</p>
+
+      <p data-option="B">B) conter o crescimento da agricultura familiar.</p>
+
+      <p data-option="C">C) eliminar a propriedade privada rural e urbana.</p>
+
+      <p data-option="D">D) impedir a produção agroindustrial em larga escala.</p>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<section data-block="III">
+
+  <div data-question-id="30">
+
+    <p data-role="title"><b>Questão 30</b></p>
+
+    <p data-role="excerpt">
+      {...} A oeste encontra-se a Cordilheira dos Andes, bloco geologicamente mais recente do que a porção leste.
+      Ross destacou o trecho mais antigo e mais alto, a Cordilheira Oriental, com cerca de 100 milhões de anos de
+      idade e altitudes de 4 mil metros, na Bolívia e na Argentina.
+    </p>
+
+    <p data-role="excerpt">
+      (...) A cadeia montanhosa predominante, estendendo-se de norte a sul do continente, com altitudes de 1.500 a
+      2.600 metros, é a Cordilheira Ocidental, formada em duas fases, uma há cerca de 85 milhões de anos e outra há
+      40 milhões de anos. A Cordilheira Costeira é ainda mais recente, do final do período Cenozoico, entre 1,7
+      milhão e 23 milhões de anos. Entre as montanhas há vales ocupados por cidades como Santiago, a 800 metros de
+      altitude, e o deserto de Atacama, que Ross visitou em novembro, em outra viagem de checagem de campo,
+      impressionando-se com a película branca de sal sobre o solo árido vermelho.
+    </p>
+
+    <p data-role="source" style="font-size: 12px; text-align: center; margin: 10px 0 14px 0;">
+      Fonte: Adaptado de Artigo científico ROSS, J. L. S. Compartimentação do relevo da América do Sul.
+      Revista Brasileira de Geografia. v. 61, n. 1, p.21-58, 2016.<br/>
+      Este texto foi originalmente publicado por Pesquisa FAPESP de acordo com a licença Creative Commons CC-BY-NC-ND.
+      Leia o original aqui. https://revistapesquisa.fapesp.br/sob-a-forca-dos-andes/
+    </p>
+
+    <p data-role="statement">
+      A dinâmica natural, responsável pela formação geológica da Cordilheira dos Andes é
+    </p>
+
+    <div data-role="options" style="margin-left: 60px;">
+
+      <p data-option="A">A) a erupção de lava vulcânica.</p>
+
+      <p data-option="B">B) o intemperismo físico e químico.</p>
+
+      <p data-option="C" data-correct="true">C) o encontro de placas tectônicas.</p>
+
+      <p data-option="D">D) o derretimento de calotas polares.</p>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<section data-block="IV">
+
+  <div data-question-id="31">
+
+    <p data-role="title"><b>Questão 31</b></p>
+
+    <p data-role="statement">
+      Sobre o aparecimento da América no seio da Cultura Ocidental, Edmundo O‘Gorman faz a seguinte observação:
+    </p>
+
+    <p data-role="excerpt">
+      “Pois bem, todos sabemos que a resposta tradicional consiste na afirmação de que a América resultou do seu
+      descobrimento [...]. Mas é possível realmente afirmar que a América foi descoberta sem que se incorra em um
+      absurdo? Esta é a dúvida com que queremos iniciar essas reflexões”.
+    </p>
+
+    <p data-role="source" style="font-size: 12px; margin: 6px 0 14px 0;">
+      Fonte: O'GORMAN, Edmundo. <i>A invenção da América: reflexão a respeito histórica do novo mundo e do sentido do
+      seu devir</i>. 1. ed. São Paulo: UNESP, 1992. p. 25.
+    </p>
+
+    <p data-role="statement">
+      A pergunta apresentada pelo autor nesse trecho foi tema de diversas pesquisas historiográficas e as evidências
+      trazem à tona a seguinte resposta:
+    </p>
+
+    <div data-role="options" style="margin-left: 60px;">
+
+      <p data-option="A">
+        A) A América em seu processo de expansão imperialista promoveu dominação e massacre de povos que habitavam
+        o continente.
+      </p>
+
+      <p data-option="B">
+        B) A América foi descoberta pelos europeus, especificamente por Cristóvão Colombo, que chegou ao continente
+        no final do século XV.
+      </p>
+
+      <p data-option="C">
+        C) A América, a partir da chegada dos europeus, foi integrada ao mundo ocidental a partir da valorização
+        dos seus povos e cultura.
+      </p>
+
+      <p data-option="D" data-correct="true">
+        D) A América foi alvo do processo de conquista imperialista europeu, resultando em dominação e também
+        resistência dos povos que viviam no continente.
+      </p>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<section data-block="IV">
+
+  <div data-question-id="32">
+
+    <p data-role="title"><b>Questão 32</b></p>
+
+    <p data-role="statement">
+      Leia com atenção este fragmento.
+    </p>
+
+    <p data-role="excerpt">
+      Após a Segunda Guerra Mundial, quando os Estados Unidos assumem o papel internacional de guardiães do chamado
+      mundo livre contra o avanço do comunismo, a América Latina e o Caribe passam a sofrer crescentes interferências
+      sob o argumento do combate ao expansionismo soviético, que encontraria terreno favorável nas fragilidades do
+      desenvolvimento da região, especialmente as que decorrem das fortes desigualdades sociais.
+    </p>
+
+    <p data-role="source" style="font-size: 12px; margin: 6px 0 14px 0;">
+      Fonte: AYERBE, Luis Fernando. <i>A Revolução Cubana</i>. São Paulo: Editora UNESP, 2004. p. 45.
+    </p>
+
+    <p data-role="statement">
+      O exemplo emblemático de uma revolução exitosa que sustenta esse tipo de preocupação por parte dos Estados
+      Unidos, após a Segunda Guerra Mundial, em relação à possível influência de movimentos similares no continente
+      americano é a revolução:
+    </p>
+
+    <div data-role="options" style="margin-left: 60px;">
+
+      <p data-option="A" data-correct="true">A) Cubana.</p>
+
+      <p data-option="B">B) Mexicana.</p>
+
+      <p data-option="C">C) Nicaraguense.</p>
+
+      <p data-option="D">D) Guatemalteca.</p>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<section data-block="IV">
+
+  <div data-question-id="33">
+
+    <p data-role="title"><b>Questão 33</b></p>
+
+    <p data-role="statement">
+      Os historiadores Patrícia Valim e Alexandre Avelar, em matéria publicada na Revista Cult, destacam que:
+    </p>
+
+    <!-- Bloco centralizado (como na prova) -->
+    <div data-role="excerpt"
+         style="max-width: 760px; margin: 10px auto 8px auto; text-align: center; line-height: 1.35;">
+      <p style="margin: 0;">
+        Popularizado por Rousso, o termo negacionismo invadiu a cena pública do mundo ocidental do pós-guerra quando
+        alguns indivíduos alcançaram popularidade ao postularem que o extermínio dos judeus havia sido uma gigantesca
+        farsa histórica patrocinada por poderosos interesses políticos e econômicos ligados ao Estado de Israel e ao
+        movimento sionista internacional. Negacionistas como Robert Faurisson, David Irving, Ernst Zundel e Roger
+        Garaudy, entre outros, procuraram legitimar seus lugares no campo intelectual ao afirmarem que suas teses
+        falaciosas eram “revisionismos históricos”, elaborados por meio dos procedimentos metodológicos obrigatórios
+        do trabalho do historiador: levantamento e exame crítico das fontes, construção de hipóteses explicativas e
+        formulação de conclusões objetivas.
+      </p>
+    </div>
+
+    <p data-role="source"
+       style="font-size: 12px; text-align: center; margin: 6px 0 14px 0;">
+      Fonte: AVELAR, Alexandre &amp; VALIM, Patrícia. Negacionismo histórico: entre a governamentalidade e a violação
+      dos direitos fundamentais. In: <b>Revista Cult</b>, online. Link: https://revistacult.uol.com.br/home/
+    </p>
+
+    <p data-role="statement">
+      Nesse fragmento, os autores afirmam que o negacionismo histórico sobre o holocausto esteve, inicialmente,
+      associado a:
+    </p>
+
+    <div data-role="options" style="margin-left: 60px;">
+
+      <p data-option="A" data-correct="true">
+        A) Posições antissemitas objetivando atacar a legitimidade do Estado de Israel.
+      </p>
+
+      <p data-option="B">
+        B) Posições intelectuais de revisão da história a partir do estudo de fontes inéditas.
+      </p>
+
+      <p data-option="C">
+        C) Interesses ligados à pesquisa histórica, pautados na supremacia da evidência das fontes.
+      </p>
+
+      <p data-option="D">
+        D) Necessidade de subsidiar com evidências históricas os julgamentos do Tribunal de Nuremberg.
+      </p>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<section data-block="IV">
+
+  <div data-question-id="34">
+
+    <p data-role="title"><b>Questão 34</b></p>
+
+    <p data-role="statement">
+      Sobre a ditadura civil-militar, Daniel Aarão Reis faz as seguintes considerações:
+    </p>
+
+    <!-- Bloco centralizado (como na prova) -->
+    <div data-role="excerpt"
+         style="max-width: 760px; margin: 10px auto 8px auto; text-align: center; line-height: 1.35;">
+      <p style="margin: 0;">
+        O marco inicial, 1964, não suscita dúvidas. A ditadura instaurou-se, como se disse, contra um determinado
+        programa – nacionalista e popular. A ruptura aí é clara, embora as continuidades sejam também evidentes, como
+        se verá. Perdeu-se um tipo de República na qual havia uma democracia limitada, mas em processo de ampliação.
+        Ganhou-se uma ditadura que se radicalizaria com o tempo.
+      </p>
+    </div>
+
+    <p data-role="source"
+       style="font-size: 12px; text-align: center; margin: 6px 0 14px 0;">
+      Fonte: AARÃO, Daniel R. A ditadura faz cinquenta anos: história e cultura política nacional-estatista.
+      In: ___; RIDENTI, Marcelo; SÁ MOTTA, Rodrigo Patto. <b>A Ditadura que mudou o Brasil: 50 anos depois</b>.
+      RJ: Zahar, 2014. p. 11.
+    </p>
+
+    <p data-role="statement">
+      Em 13 de março de 1964 instaurou-se a ditadura através de um golpe orquestrado por civis e militares.
+      Os militares foram os que efetivaram o processo, mas os embates políticos que levaram a esse desfecho foram
+      caracterizados por
+    </p>
+
+    <div data-role="options" style="margin-left: 60px;">
+
+      <p data-option="A">
+        A) um pacto entre empresários e setores da classe média com as políticas econômicas de João Goulart, temendo
+        que o país se aproximasse de um regime socialista.
+      </p>
+
+      <p data-option="B">
+        B) uma intensa mobilização de setores progressistas, sintetizado no movimento “Marcha da Família com Deus pela
+        Liberdade”, em defesa do governo de João Goulart.
+      </p>
+
+      <p data-option="C">
+        C) um alinhamento do governo de João Goulart com os Estados Unidos no contexto da chamada Guerra Fria, gerando
+        insatisfação nos segmentos liberais conservadores.
+      </p>
+
+      <p data-option="D" data-correct="true">
+        D) uma polarização entre segmentos progressistas e liberais conservadores, que se mobilizaram em defesa e
+        contra as chamadas reformas de base durante o governo de João Goulart.
+      </p>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+  <div data-question-id="35">
+    <p data-role="title"><b>Quest�o 35</b></p>
+
+    <p data-role="statement">Leia com aten��o o fragmento do livro de Silvia Frederici.</p>
+
+    <p align="center" data-role="excerpt" style="margin: 12px 0;">
+      Em particular, as feministas colocaram em evid�ncia e denunciaram as estrat�gias e a<br/>
+      viol�ncia por meio das quais os sistemas de explora��o, centrados nos homens,<br/>
+      tentaram disciplinar e apropriar-se do corpo feminino, destacando que os corpos das<br/>
+      mulheres constitu�ram os principais objetivos - lugares privilegiados - para a<br/>
+      implementa��o das t�cnicas de poder e das rela��es de poder.
+    </p>
+
+    <p data-role="source">
+      <b>Fonte:</b> FEDERICI, Silvia. <b>Calib� e a Bruxa: mulheres, corpo e acumula��o primitiva.</b><br/>
+      S�o Paulo: Elefante, 2017. p. 31-32.
+    </p>
+
+    <p data-role="statement">
+      O fragmento citado aborda como o corpo das mulheres tem sido um espa�o central para a aplica��o das t�cnicas
+      de poder e domina��o no sistema capitalista. Essa dimens�o da luta feminista foi assumida no Brasil nos anos
+      de 1960 e 1970, quando as principais reivindica��es no campo dos direitos civis podem ser sintetizadas como:
+    </p>
+
+    <div data-role="options">
+      <p data-option="A">
+        A) Moralidade e sexualidade, defendendo que a mulher deveria ser a guardi� da moral familiar, em conson�ncia
+        com o discurso da Igreja e do Estado. Posto que, acreditavam que as mulheres que desafiavam esse ideal -
+        trabalhadoras, m�es solteiras, ou militantes pol�ticas - deveriam ser alvos de disciplinamento na sociedade.
+      </p>
+
+      <p data-option="B">
+        B) Direitos trabalhistas e condi��es de trabalho, defendendo a restri��o do acesso das mulheres ao mercado
+        de trabalho t�xtil, industrial e comercial. Pois, acreditavam que, assim, as mulheres n�o seriam impulsionadas
+        a deixar o trabalho dom�stico e o cuidado da fam�lia e, com isso, n�o seriam submetidas a dupla jornada de trabalho.
+      </p>
+
+      <p data-option="C">
+        C) Igualdade jur�dica, denunciando a depend�ncia econ�mica imposta �s mulheres e defendendo a autonomia legal
+        para que pudessem administrar seus pr�prios bens e tomar decis�es sem autoriza��o dos maridos. Direitos sexuais
+        e reprodutivos, reivindicando o direito ao planejamento familiar, o acesso a m�todos contraceptivos e a legaliza��o do aborto.
+      </p>
+
+      <p data-option="D">
+        D) Controle reprodutivo, reivindicando do Estado o controle do corpo feminino, defendendo a esteriliza��o for�ada
+        de mulheres pobres, como forma de evitar o aumento desordenado da popula��o nas �reas perif�ricas. E para as mulheres
+        mais abastadas indicavam a educa��o sobre formas sobre contracep��o, destacadamente o uso da p�lula anticoncepcional.
+      </p>
+    </div>
+  </div>
+
+<section data-block="reference">
+
+  <div data-role="reference-page">
+
+    <p data-role="title"><b>Tabela Periódica dos Elementos</b></p>
+
+    <p data-role="statement" style="margin-bottom: 16px;">
+      Utilize a tabela periódica abaixo como material de apoio para a resolução das questões.
+    </p>
+
+    <!-- Figura centralizada e responsiva -->
+    <div data-role="image-container"
+         style="text-align: center; margin: 20px 0;">
+
+      <img src="assets/images/figure_7.png"
+           alt="Tabela Periódica dos Elementos"
+           style="
+             max-width: 100%;
+             height: auto;
+             border: 1px solid #ccc;
+             border-radius: 4px;
+           ">
+    </div>
+
+    <p data-role="note"
+       style="font-size: 12px; text-align: center; color: #555;">
+      A tabela periódica pode ser ampliada utilizando o gesto de zoom do dispositivo.
+    </p>
+
+  </div>
+
+</section>
+
+
+<section data-block="IV">
+
+  <div data-question-id="36">
+
+    <p data-role="title"><b>Questão 36</b></p>
+
+    <p data-role="statement">
+      Em 1897, utilizando um tubo de raios catódicos, J.J. Thomson demonstrou o caráter
+      corpuscular desses raios, confirmando a existência do elétron. Ele determinou a
+      razão carga/massa (e/m) do elétron, cujo valor atual é 1,76 × 10¹¹ C/kg.
+      Esta figura ilustra parte do esquema experimental: duas placas metálicas paralelas
+      (P e P‘) são submetidas a uma diferença de potencial (V), gerando um campo elétrico
+      uniforme na região entre elas. A distância entre as placas é d, e seu comprimento é Ɩ.
+      Ao aplicar uma tensão no filamento do tubo, elétrons são emitidos pelo catodo (C)
+      com velocidade inicial horizontal (v₀). Ao passar entre as placas, os elétrons
+      sofrem a ação de uma força elétrica (Fₑ = eE), perpendicular à trajetória inicial,
+      causando um desvio vertical (OO‘) no feixe.
+    </p>
+
+    <p data-role="statement">
+      A distância entre o centro das placas e o anteparo é L. Considere a força peso
+      desprezível se comparada à força elétrica.
+    </p>
+
+    <div data-role="image-container" style="text-align: center; margin: 18px 0;">
+      <img
+        src="assets/images/figure_8.png"
+        alt="Experimento de J.J. Thomson com placas paralelas"
+        style="max-width: 95%; height: auto;"
+      >
+    </div>
+
+    <p data-role="statement">
+      Em termos de v₀, e, m, E, Ɩ, a velocidade dos elétrons na direção do eixo y
+      (perpendicular à trajetória inicial do feixe), sentido positivo, adquirida
+      ao final da região entre as placas é dada por:
+    </p>
+
+    <div data-role="options" style="margin-top: 12px;">
+      <p data-option="A"><b>A)</b> \( \sqrt{v_{0}^{2} + \frac{2e}{m}E\ell} \)</p>
+      <p data-option="B"><b>B)</b> \( 1 + \frac{1}{2}\frac{e}{m}E\frac{\ell^{2}}{v_{0}} \)</p>
+      <p data-option="C"><b>C)</b> \( \frac{e}{m}E\frac{\ell^{2}}{v_{0}^{2}} \)</p>
+      <p data-option="D"><b>D)</b> \( \frac{e}{m}E\frac{\ell}{v_{0}} \)</p>
+    </div>
+
+  </div>
+
+</section>
+
+
+<section data-block="IV">
+
+  <div data-question-id="37">
+
+    <p data-role="title"><b>Questão 37</b></p>
+
+    <p data-role="statement">
+      Um fenômeno intrigante atrai turistas ao parque Racetrack Playa, no Vale da Morte,
+      Califórnia (EUA). Lá, pedras se movem misteriosamente, deixando rastros visíveis no solo
+      (Figura). Algumas se deslocam sozinhas, enquanto outras parecem mover-se em pares,
+      criando rastros sincronizados que lembram marcas de pneus. Uma das explicações propostas
+      sugere que, durante tempestades ocasionais, ventos fortes exercem uma força horizontal
+      de 1,60×10<sup>2</sup> N sobre as pedras, colocando-as em movimento retilíneo uniforme
+      sobre o solo amolecido pela chuva. Quando o solo seca, os rastros são preservados e
+      endurecidos pelo calor.
+    </p>
+
+    <div data-role="image-container" style="text-align: center; margin: 18px 0;">
+      <img
+        src="assets/images/figure_9.png"
+        alt="Pedra e seu rastro no chão do deserto de Racetrack Playa"
+        style="max-width: 90%; height: auto;"
+      >
+      <p style="font-size: 0.85em; margin-top: 6px;">
+        Pedra e seu rastro no chão do deserto
+      </p>
+    </div>
+
+    <p data-role="source" style="font-size: 0.85em;">
+      Fonte: Pedras que <i>andam</i> e deixam rastro intrigam turistas em vale dos EUA.
+      Disponível em:
+      https://g1.globo.com/turismo-e-viagem/noticia/2013/05/pedras-que-andam-e-deixam-rastro-intrigam-turistas-em-vale-dos-eua.html.
+      Acesso em: 03 jan. 2025.
+      <br/>
+      HALLIDAY, D.; RESNICK, R.; WALKER, J. <i>Fundamentos de Física – Mecânica</i>,
+      v. 1, 9ª ed. LTC, 2012.
+    </p>
+
+    <p data-role="statement">
+      Considere uma pedra com massa típica de 20.000 g e uma aceleração gravitacional
+      de 10 m/s<sup>2</sup>. O coeficiente de atrito cinético entre a pedra e o solo é:
+    </p>
+
+    <div data-role="options" style="margin-top: 12px;">
+      <p data-option="A"><b>A)</b> 0,8</p>
+      <p data-option="B"><b>B)</b> 0,008</p>
+      <p data-option="C"><b>C)</b> 0,0008</p>
+      <p data-option="D"><b>D)</b> 0,000008</p>
+    </div>
+
+  </div>
+
+</section>
+
+
+<section data-block="IV">
+
+  <div data-question-id="38">
+
+    <p data-role="title"><b>Questão 38</b></p>
+
+    <p data-role="statement">
+      Os escorpiões da areia localizam suas presas utilizando sensores vibratórios
+      localizados em suas pernas. Quando uma presa se move bruscamente na superfície
+      da areia, são geradas ondas transversais e longitudinais, que se propagam a
+      velocidades de 50 m/s e 150 m/s, respectivamente. O escorpião determina a
+      posição da presa a partir da diferença de tempo (Δt) entre os instantes de
+      chegada das duas ondas à perna mais próxima. Um Δt típico detectável pelo
+      escorpião é de 4,0 ms.
+    </p>
+
+    <p data-role="source" style="font-size: 0.85em;">
+      Fonte: HALLIDAY, D.; RESNICK, R.; WALKER, J. <i>Fundamentos de Física – Mecânica</i>,
+      v. 2, 9ª ed. LTC, 2012.
+      <br/>
+      JEONG, E.; KIM, D. Detecting vibration source for the orientation behavior of
+      sand scorpions. <i>BMC Neuroscience</i>, 13 (Suppl 1), P106, 2012.
+    </p>
+
+    <p data-role="statement">
+      A distância que a presa está do escorpião e o tempo que a onda longitudinal
+      leva para alcançá-lo são, respectivamente:
+    </p>
+
+    <div data-role="options" style="margin-top: 12px;">
+      <p data-option="A"><b>A)</b> 300 m e 2 s</p>
+      <p data-option="B"><b>B)</b> 10 cm e 2 ms</p>
+      <p data-option="C"><b>C)</b> 300 m e 2 ms</p>
+      <p data-option="D"><b>D)</b> 30 cm e 2 ms</p>
+    </div>
+
+  </div>
+
+</section>
+
+
+<!-- Questão 39 -->
+<section data-block="IV">
+  <div data-question-id="39">
+
+  <p data-role="title"><b>Questão 39</b></p>
+
+  <p data-role="statement">
+    Um satélite geoestacionário orbita a Terra a uma altitude de 35.920 km acima da superfície,
+    descrevendo uma trajetória circular com velocidade constante de 10.800 km/h.
+    O raio da Terra é considerado igual a 6.380 km.
+  </p>
+
+  <p data-role="source">
+    <b>Fonte</b>: https://brasilescola.uol.com.br/o-que-e/fisica/o-que-sao-satelites-geoestacionarios.htm
+  </p>
+
+  <p data-role="statement">
+    Com base nesses dados, a aceleração da gravidade, em m/s², no ponto onde está localizado o satélite é de:
+  </p>
+
+  <div data-role="options">
+<p data-option="A">A) 1,41</p>
+<p data-option="B">B) 0,21</p>
+<p data-option="C">C) 0,25</p>
+<p data-option="D">D) 2,76</p>
+  </div>
+
+</div>
+</section>
+<!-- Questão 40 -->
+<section data-block="IV">
+  <div data-question-id="40">
+
+  <p data-role="title"><b>Questão 40</b></p>
+
+  <p data-role="statement">
+    Um trabalhador empurra uma caixa contendo uma geladeira sobre um piso plano de cimento.
+    O coeficiente de atrito cinético entre a caixa e o piso é constante.
+    A força aplicada pelo trabalhador é sempre paralela ao piso, constante em módulo e muda de direção
+    para que a caixa descreva uma trajetória circular de raio constante <b>R</b>.
+    A velocidade da caixa durante o movimento é constante em módulo.
+  </p>
+
+  <p data-role="statement">
+    Esta figura mostra a força <b>F</b> exercida pelo trabalhador sobre a caixa, a força de atrito cinético
+    (<i>f</i><sub>ac</sub>) atuando entre o piso e a caixa, e a trajetória circular da caixa vista de cima.
+  </p>
+
+  <div data-role="media">
+    <img
+      src="assets/images/figure_10.png"
+      alt="Figura da Questão 40: diagrama com a força F, força de atrito cinético fac e trajetória circular de raio R."
+    >
+  </div>
+
+  <p data-role="statement">
+    Considerando as forças atuantes sobre a caixa, em módulo, a força aplicada pelo trabalhador é:
+  </p>
+
+  <div data-role="options">
+<p data-option="A">A) igual ao módulo da força centrípeta.</p>
+<p data-option="B">B) menor do que o módulo a força centrípeta.</p>
+<p data-option="C">C) igual ao módulo da força de atrito cinético.</p>
+<p data-option="D">D) maior do que o módulo da força de atrito cinético.</p>
+  </div>
+
+</div>
+</section>
+<!-- ========================= -->
+<!-- Questão 41               -->
+<!-- ========================= -->
+
+<section data-block="IV">
+  <div data-question-id="41">
+  <p data-role="title"><b>Questão 41</b></p>
+
+  <p data-role="statement">
+Esta imagem ilustra uma proteína (Cas9) interagindo com um RNA guia e uma molécula de DNA.
+    Demonstra os mecanismos moleculares do sistema imunológico bacteriano, que permitem a edição do genoma.
+  </p>
+
+    <div data-role="media">
+      <img
+    src="assets/images/figure_11.png"
+    alt="Proteína Cas9 interagindo com RNA guia e DNA"
+      />
+    </div>
+
+  <p data-role="source"><strong>Fonte:</strong> Disponível em:
+    https://www.scielo.br/j/abc/a/S7rhCRLnYjVmCDfTrdSYTDs/?lang=pt.
+    Acesso em: 20/01/2025.
+  </p>
+
+  <p data-role="statement">
+Nesse mecanismo, o papel do RNA guia é de:
+  </p>
+
+      <div data-role="options">
+      <p data-option="A">A) molde para a reparação da sequência cortada no DNA.</p>
+      <p data-option="B">B) atuação como uma enzima que quebra a dupla hélice de DNA no ponto identificado.</p>
+      <p data-option="C">C) alteração direta da estrutura do DNA, substituindo nucleotídeos de forma independente.</p>
+      <p data-option="D">D) identificação da sequência-alvo no DNA, orientando a proteína para realizar o corte específico.</p>
+    </div>
+  </div>
+</section>
+
+
+<!-- ========================= -->
+<!-- Questão 42               -->
+<!-- ========================= -->
+
+<section data-block="IV">
+  <div data-question-id="42">
+  <p data-role="title"><b>Questão 42</b></p>
+
+  <p data-role="statement">
+Diferentes espécies de rãs podem compartilhar o mesmo hábitat, mas nem sempre conseguem
+    reproduzir entre si devido a mecanismos de isolamento reprodutivo que podem ocorrer antes
+    ou após a formação do zigoto.
+  </p>
+
+  <p data-role="statement">
+O isolamento reprodutivo <strong>pré-zigótico</strong> ocorre entre rãs:
+  </p>
+
+      <div data-role="options">
+      <p data-option="A">A) de espécies diferentes que cruzam entre si, mas os descendentes híbridos são estéreis.</p>
+      <p data-option="B">B) de uma mesma espécie que possuem períodos reprodutivos em estações diferentes,
+      mas geram descendentes viáveis ao cruzar.</p>
+      <p data-option="C">C) de espécies diferentes que acasalam e depositam seus ovos em ambientes comuns,
+      mas os girinos não se desenvolvem e morrem.</p>
+      <p data-option="D">D) que possuem cantos de acasalamento distintos, impedindo que machos e fêmeas de
+      diferentes espécies se reconheçam como parceiros.</p>
+    </div>
+  </div>
+</section>
+
+
+<!-- ========================= -->
+<!-- Questão 43               -->
+<!-- ========================= -->
+<section data-block="IV">
+  <div data-question-id="43">
+
+    <p data-role="title"><b>Questão 43</b></p>
+<p data-role="statement">Esta figura representa um bioma típico do país. Os ecossistemas brasileiros possuem
+    características distintas que refletem sua biodiversidade e importância ambiental.
+  </p>
+
+<div data-role="media">
+  <img src="assets/images/figure_12.png" alt="Mapa de bioma brasileiro" />
+</div>
+
+<p data-role="statement">São adaptações da vegetação desse bioma:</p>
+
+<div data-role="options">
+<p data-option="A">A) A vegetação é formada exclusivamente por gramíneas, com ausência total de arbustos ou árvores no ambiente.</p>
+<p data-option="B">B) As plantas possuem raízes profundas para buscar água subterrânea do solo e troncos espessos que resistem ao fogo.</p>
+<p data-option="C">C) As plantas não apresentam adaptações específicas ao ambiente, pois o solo é fértil e há disponibilidade constante de água.</p>
+<p data-option="D">D) A vegetação é composta predominantemente por árvores altas de grande porte, adaptadas a solos ricos em nutrientes e clima úmido.</p>
+  </div>
+  </div>
+</section>
+<!-- ========================= -->
+<!-- Questão 44               -->
+<!-- ========================= -->
+<section data-block="IV">
+  <div data-question-id="44">
+
+    <p data-role="title"><b>Questão 44</b></p>
+<p data-role="statement">“Se a água não levar, a gente come”, meu pai disse entre uma capina e outra no roçado.
+    A água levou tudo [...] e em vez de mandioca e da batata-doce que apodreceram debaixo
+    de tanta água, pegávamos molés, cascudos, jundiás [...] A lagoa era lodosa [...], mas
+    a cheia tinha trazido peixes, que fisgavam com rapidez as iscas. Domingas ia nomeando,
+    com a ajuda da mãe, a qualidade dos animais. Cascudo tem de monte”.
+  </p>
+<p data-role="source"><strong>Fonte:</strong> VIEIRA JUNIOR, Itamar. <em>Torto arado</em>. 1ª ed.
+    São Paulo: Todavia, 2019. (fragmentos)
+  </p>
+<p data-role="statement">A relação ecológica descrita nesse trecho é do mesmo tipo da relação que ocorre entre:
+  </p>
+
+<div data-role="options">
+<p data-option="A">A) cachorro e pulga.</p>
+<p data-option="B">B) pássaro e lagarta.</p>
+<p data-option="C">C) abelha e angiosperma.</p>
+<p data-option="D">D) homem e vaca leiteira.</p>
+  </div>
+  </div>
+</section>
+<!-- ========================= -->
+<!-- Questão 45               -->
+<!-- ========================= -->
+<section data-block="IV">
+  <div data-question-id="45">
+
+    <p data-role="title"><b>Questão 45</b></p>
+<p data-role="statement">Este gráfico apresenta a taxa de detecção de sífilis adquirida
+    (por 100.000 habitantes) segundo região de residência no Brasil
+    e o ano de diagnóstico:
+  </p>
+
+<div data-role="media">
+  <img src="assets/images/figure_12.png" alt="Gráfico da taxa de detecção de sífilis no Brasil por região" />
+</div>
+
+<p data-role="statement">
+    Observa-se uma mudança na tendência do gráfico no ano de 2020,
+    causada pela epidemia de Covid-19, que impactou negativamente a
+    realização de exames e o diagnóstico da sífilis.
+  </p>
+<p data-role="source">Fonte: Disponível em:
+    https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/boletins/epidemiologicos/especiais/2023/boletim-epidemiologico-de-sifilis-numero-especial-out.2023.
+    Acesso em 15 de janeiro de 2025.
+  </p>
+<p data-role="statement">A tendência observada no gráfico se deve a:</p>
+
+<div data-role="options">
+<p data-option="A">A) diminuição na taxa de vacinação.</p>
+<p data-option="B">B) proliferação excessiva de insetos vetores.</p>
+<p data-option="C">C) pequena adesão ao uso de preservativos.</p>
+<p data-option="D">D) deficiência na rede de saneamento básico.</p>
+  </div>
+  </div>
+</section>
+<!-- ========================= -->
+<!-- Questão 46               -->
+<!-- ========================= -->
+<section data-block="IV">
+  <div data-question-id="46">
+
+    <p data-role="title"><b>Questão 46</b></p>
+<p data-role="statement">Dentre os novos materiais, desenvolvidos para atender às demandas
+    biotecnológicas atuais, destacam-se as nanopartículas de ferro (Fe),
+    conhecidas como ferritas. Esses compostos cerâmicos são formados por
+    óxidos metálicos e podem ser dopados com outros íons metálicos.
+  </p>
+<p data-role="statement">Para aplicações biomédicas, é essencial controlar com precisão o
+    tamanho das nanopartículas magnéticas. A escolha dos dopantes é
+    crucial para esse controle, pois os íons substituintes podem alterar
+    a distorção da estrutura cristalina, impactando diretamente a eficácia
+    terapêutica das nanopartículas de ferrita.
+  </p>
+<p data-role="source">Fonte: RIBEIRO, T. M. et al. Síntese, caracterização, atividade
+    antimicrobiana de nanopartículas de ferrita de cobre e sua
+    incorporação em cimento de ionômero de vidro. <em>Química Nova</em>,
+    v. 47, n. 4, e-20230120, p. 1–7, 2024.
+    Disponível em:
+    https://quimicanova.sbq.org.br/pdf/v47n4a03.
+    Acesso em: 13 jan. 2025.
+  </p>
+<p data-role="statement">O íon dopante que pode ser utilizado na síntese dessas ferritas é:</p>
+
+<div data-role="options">
+<p data-option="A">A) Rb<sup>+</sup></p>
+<p data-option="B">B) Co<sup>2+</sup></p>
+<p data-option="C">C) Ba<sup>2+</sup></p>
+<p data-option="D">D) Pb<sup>2+</sup></p>
+  </div>
+  </div>
+</section>
+<!-- ========================= -->
+<!-- Questão 47               -->
+<!-- ========================= -->
+<section data-block="IV">
+  <div data-question-id="47">
+
+    <p data-role="title"><b>Questão 47</b></p>
+<p data-role="statement">A siderurgia é um setor vital para o país, mas está associada também
+    a emissões de contaminantes como o níquel, usado na produção de ligas
+    metálicas e aço. Partículas de níquel são liberadas como aerossóis, e
+    a exposição crônica a altas concentrações pode causar problemas
+    respiratórios.
+  </p>
+<p data-role="statement">Cerca de 35% do níquel inalado é retido nos pulmões e entra na
+    corrente sanguínea; o restante é engolido, expectorado ou permanece
+    no trato respiratório. Após ser metabolizado, o níquel é excretado
+    principalmente pela urina.
+  </p>
+<p data-role="statement">Segundo a OMS, as concentrações regulares de níquel na urina devem
+    estar entre 1 e 2 μg/L. Um estudo mediu a concentração média de níquel
+    (μmol/L) na urina de indivíduos de quatro países, e os resultados são
+    apresentados a seguir:
+  </p>
+
+<div data-role="media">
+  <img src="assets/images/figure_13.png" alt="Tabela com concentrações de níquel em urina por país" />
+</div>
+
+<p data-role="statement">
+    País I: 0,025 μmol/L<br/>
+    País II: 0,051 μmol/L<br/>
+    País III: 0,068 μmol/L<br/>
+    País IV: 0,085 μmol/L
+  </p>
+<p data-role="source">Fonte: BORGES, R. M. et al. Avaliação dos níveis de níquel no ar e na
+    urina de moradores próximos a uma indústria e depósito de rejeitos
+    siderúrgicos no município de Volta Redonda, RJ. <em>Química Nova</em>,
+    v. 47, n. 5, e-20240001, p. 1–8, 2024.
+    Disponível em:
+    https://quimicanova.sbq.org.br/pdf/AR2023-0160.
+    Acesso em: 13 jan. 2025.
+  </p>
+<p data-role="statement">O país cuja amostra de urina analisada encontra-se dentro dos limites
+    estabelecidos pela OMS é:
+  </p>
+
+<div data-role="options">
+<p data-option="A">A) I</p>
+<p data-option="B">B) II</p>
+<p data-option="C">C) III</p>
+<p data-option="D">D) IV</p>
+  </div>
+  </div>
+</section>
+<!-- ========================= -->
+<!-- Questão 48               -->
+<!-- ========================= -->
+<section data-block="IV">
+  <div data-question-id="48">
+
+    <p data-role="title"><b>Questão 48</b></p>
+<p data-role="statement">Uma alimentação inadequada pode causar azia e má digestão. Para
+    aliviar esses sintomas, é comum o uso de medicamentos antiácidos,
+    que contêm carbonato de cálcio (CaCO<sub>3</sub>) em sua formulação.
+  </p>
+<p data-role="statement">Esse composto reage com o ácido clorídrico (HCl) presente no
+    estômago, neutralizando o excesso de acidez. A equação balanceada
+    que representa essa reação de neutralização é:
+  </p>
+<p data-role="statement">CaCO<sub>3</sub>(s) + 2HCl(aq) → CaCl<sub>2</sub>(aq) +
+    H<sub>2</sub>O(l) + CO<sub>2</sub>(g)
+  </p>
+<p data-role="statement">Considere o consumo de 500 mg de carbonato de cálcio (CaCO<sub>3</sub>),
+    presente em um medicamento.
+  </p>
+<p data-role="statement"><strong>DADOS:</strong></p>
+<p data-role="statement">CaCO<sub>3</sub> ΔH<sub>formação</sub> = −1207 kJ<br/>
+    HCl ΔH<sub>formação</sub> = −92,31 kJ<br/>
+    CaCl<sub>2</sub> ΔH<sub>formação</sub> = −795,0 kJ<br/>
+    H<sub>2</sub>O(l) ΔH<sub>formação</sub> = −285,8 kJ<br/>
+    CO<sub>2</sub>(g) ΔH<sub>formação</sub> = −393,5 kJ
+  </p>
+<p data-role="statement">Considerando a neutralização do antiácido em ambiente estomacal, a
+    quantidade de energia liberada, em kJ, durante essa reação é igual a:
+  </p>
+
+<div data-role="options">
+<p data-option="A">A) 0,4</p>
+<p data-option="B">B) 6,0</p>
+<p data-option="C">C) 8,3</p>
+<p data-option="D">D) 12,1</p>
+  </div>
+  </div>
+</section>
+<!-- ========================= -->
+<!-- Questão 49               -->
+<!-- ========================= -->
+<section data-block="IV">
+  <div data-question-id="49">
+
+    <p data-role="title"><b>Questão 49</b></p>
+<p data-role="statement">Segundo dados da Embrapa, entre 1975 e 2017, a produção de grãos no
+    Brasil aumentou mais de seis vezes, enquanto a área plantada apenas
+    dobrou. Esse expressivo crescimento na produtividade pode ser
+    atribuído a diversos fatores, entre os quais se destaca o maior uso
+    de agrotóxicos.
+  </p>
+<p data-role="statement">Um exemplo é o glifosato (GLY), um herbicida de amplo espectro
+    amplamente empregado na agricultura. No ambiente, a degradação do
+    glifosato ocorre principalmente por meio da ação de bactérias do
+    solo, especialmente as do gênero <em>Pseudomonas</em>, conforme
+    ilustrado nesta figura.
+  </p>
+
+<div data-role="media">
+  <img src="assets/images/figure_14.png" alt="Rotas de degradação do glifosato por bactérias do solo" />
+</div>
+
+<p data-role="source">Fonte: CICILINSKI et al. Transporte mediado por coloides e o seu
+    efeito na dinâmica dos poluentes no solo. <em>Química Nova</em>,
+    v. 48, n. 1, p. 1–8, 2025. Disponível em:
+    https://quimicanova.sbq.org.br/pdf/RV2023-0284.
+    Acesso em: 13 jan. 2025.
+  </p>
+<p data-role="statement">Os compostos I e II produzidos nas rotas de degradação são:
+  </p>
+
+<div data-role="options">
+<p data-option="A">A) apolares</p>
+<p data-option="B">B) isoméricos</p>
+<p data-option="C">C) carbonílicos</p>
+<p data-option="D">D) aminoácidos</p>
+  </div>
+  </div>
+</section>
+<!-- ========================= -->
+<!-- Questão 50               -->
+<!-- ========================= -->
+<section data-block="IV">
+  <div data-question-id="50">
+
+    <p data-role="title"><b>Questão 50</b></p>
+<p data-role="statement">O índigo é um corante amplamente utilizado na indústria têxtil,
+    especialmente para a coloração de tecidos de algodão.
+    Tradicionalmente, é utilizado para dar a cor azul característica ao
+    jeans e a outros tipos de vestuário. O principal motivo para sua
+    escolha é a sua resistência à lavagem, o que o torna ideal para
+    tecidos que exigem durabilidade na cor.
+  </p>
+<p data-role="statement">No processo de tingimento, o índigo é reduzido a leucoíndigo para ser
+    aplicado ao tecido. Após a aplicação, o leucoíndigo é oxidado de volta
+    ao índigo insolúvel, fixando-se permanentemente às fibras.
+  </p>
+
+<div data-role="media">
+  <img src="assets/images/figure_15.png" alt="Redução e oxidação do índigo e leucoíndigo" />
+</div>
+
+<p data-role="statement">
+    A resistência às lavagens, apresentada pelo corante ocorre, pois:
+  </p>
+
+<div data-role="options">
+<p data-option="A">A) na reação os grupos iônicos são convertidos em grupos cetona, de maior polaridade.</p>
+<p data-option="B">B) os grupos amida e cetona estabelecem ligações de hidrogênio com as moléculas de água.</p>
+<p data-option="C">C) a molécula de índigo é simétrica e plana, fazendo com que os momentos dipolares se anulem.</p>
+<p data-option="D">D) os anéis aromáticos do índigo possuem elétrons π deslocalizados que promovem a interação com as fibras de algodão.</p>
+
+
