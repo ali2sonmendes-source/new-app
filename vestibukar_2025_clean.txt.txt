@@ -1,4 +1,4 @@
-﻿<section data-text="I">
+<section data-text="I">
 
   <p align="left">Leia o texto I para responder às questões de 1 a 6</p>
 
@@ -2828,6 +2828,7 @@ O isolamento reprodutivo <strong>pré-zigótico</strong> ocorre entre rãs:
 <p data-option="A">A) na reação os grupos iônicos são convertidos em grupos cetona, de maior polaridade.</p>
 <p data-option="B">B) os grupos amida e cetona estabelecem ligações de hidrogênio com as moléculas de água.</p>
 <p data-option="C">C) a molécula de índigo é simétrica e plana, fazendo com que os momentos dipolares se anulem.</p>
-<p data-option="D">D) os anéis aromáticos do índigo possuem elétrons ? deslocalizados que promovem a interação com as fibras de algodão.</p>
-
-
+<p data-option="D">D) os anéis aromáticos do índigo possuem elétrons π deslocalizados que promovem a interação com as fibras de algodão.</p>
+  </div>
+  </div>
+</section>
